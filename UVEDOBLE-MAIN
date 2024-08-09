@@ -1,0 +1,37 @@
+{
+"name": "ㄩᐯ乇ᗪㄖ乃ㄥ乇",
+"author": "Wiwi",
+"image": "https://i.imgur.com/h8E0Jm4.gif",
+"info":"",
+"telegram":"",
+"groups":
+        [
+        {
+        "name": "CANALES",
+        "image": "https://i.pinimg.com/originals/d4/a0/54/d4a0542cf0d27bc9c10877bc191dfa3b.gif",
+        "url": "",
+        "info":"",
+        "import": false
+        },
+        {
+        "name": "PELICULAS",
+        "image": "https://i.pinimg.com/originals/d4/a0/54/d4a0542cf0d27bc9c10877bc191dfa3b.gif",
+        "url": "",
+        "info":"",
+        "import": false
+        },
+        {
+        "name": "SERIES",
+        "image": "https://i.pinimg.com/originals/d4/a0/54/d4a0542cf0d27bc9c10877bc191dfa3b.gif",
+        "url": "",
+        "info":"IPTV",
+        "import": false
+        },
+        {
+        "name": "EXTRA",
+        "image": "https://i.pinimg.com/originals/d4/a0/54/d4a0542cf0d27bc9c10877bc191dfa3b.gif",
+        "url": "",
+        "import": false
+        }
+        ]
+}
