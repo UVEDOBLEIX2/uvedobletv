@@ -1,1 +1,292 @@
 
+{
+    "name": "SERIES ACESTREAM",
+    "author": "SERIES | ㄩᐯ乇²",
+    "url": "http://wiwihd.jimdo.com/",
+    "image": "https://i.imgur.com/aWkT5rO.gif",
+    "telegram": "http://wiwihd.jimdo.com",
+    "info": "SERIES",
+    "groups": 
+
+	[
+
+	{
+	"name": "LA CASA DEL DRAGON",
+	"image": "https://imagenes.20minutos.es/files/image_640_auto/uploads/imagenes/2024/03/21/rhaenys-targaryen-y-corlys-velaryon-en-la-casa-del-dragon.jpeg",
+	"imageScale": "",
+	"info":"MAX",
+	"stations":
+		[
+
+
+		{
+		"name": "Capitulo 1",
+		"info": "TEMPORADA 2",
+		"image": "",
+		"url": "acestream://67d0fff3874af38c718f27e12c100d8f406fc703"
+		},
+		{
+		"name": "Capitulo 2 (24 JUNIO)",
+		"info": "",
+		"image": "",
+		"url": "acestream://"
+		},
+
+		{
+		"name": "Capitulo 3 (1 JULIO)",
+		"info": "",
+		"image": "",
+		"url": "acestream://"
+		},
+
+
+
+		]
+	},
+
+	{
+	"name": "REINA ROJA",
+	"image": "https://pics.filmaffinity.com/Reina_Roja_Serie_de_TV-983415661-large.jpg",
+	"imageScale": "",
+	"info":"PRIME VIDEO",
+	"stations":
+		[
+
+
+		{
+		"name": "Capitulo 1",
+		"info": "TEMPORADA 1",
+		"image": "",
+		"url": "acestream://017a81296f7a6b6ba715315b1a51f9ef1d7f9938"
+		},
+		{
+		"name": "Capitulo 2",
+		"info": "TEMPORADA 1",
+		"image": "",
+		"url": "acestream://b273f74866eb77b93fea31413717fc18311cbb53"
+		},
+
+		{
+		"name": "Capitulo 3",
+		"info": "",
+		"image": "TEMPORADA 1",
+		"url": "acestream://23ccd51e9382f7e322fa47db91e7d1f78fafc227"
+		},
+		{
+		"name": "Capitulo 4",
+		"info": "TEMPORADA 1",
+		"image": "",
+		"url": "acestream://eb9de17820862a8f8666267ed5b76b6db2542266"
+		},
+		{
+		"name": "Capitulo 5",
+		"info": "TEMPORADA 1",
+		"image": "",
+		"url": "acestream://6ddc047cc97f8ad643a7f51df2e46a406513e80d"
+		},
+
+		{
+		"name": "Capitulo 6",
+		"info": "",
+		"image": "TEMPORADA 1",
+		"url": "acestream://802746da9881903af11752a25fd269518b820894"
+		},
+		{
+		"name": "Capitulo 7",
+		"info": "",
+		"image": "TEMPORADA 1",
+		"url": "acestream://85db80cee06c072031fc278ec0f3b2a0e610a816"
+		}
+
+
+
+		]
+	},
+
+	{
+	"name": "30 MONEDAS",
+	"image": "https://pics.filmaffinity.com/30_monedas_Serie_de_TV-184810448-large.jpg",
+	"imageScale": "",
+	"info":"HBO MAX",
+	"stations":
+		[
+
+
+		{
+		"name": "Capitulo 1",
+		"info": "TEMPORADA 1",
+		"image": "",
+		"url": "acestream://913edbb5907f5c28137c8cdff0dda54ae1b22b92"
+		},
+		{
+		"name": "Capitulo 2",
+		"info": "TEMPORADA 1",
+		"image": "",
+		"url": "acestream://9a2f098262147ba6c955bb3c6682f0fc8524f4de"
+		},
+
+		{
+		"name": "Capitulo 3",
+		"info": "",
+		"image": "TEMPORADA 1",
+		"url": "acestream://a0e02a37b3001cb12bd01401f4fc8efcf0a61847"
+		},
+
+
+
+		]
+	},
+
+	{
+	"name": "The Continental: Del universo de John Wick",
+	"image": "https://pics.filmaffinity.com/the_continental_from_the_world_of_john_wick-747506643-mmed.jpg",
+	"imageScale": "",
+	"info":"PRIME VIDEO",
+	"stations":
+		[
+
+
+		{
+		"name": "Capitulo 1",
+		"info": "",
+		"image": "",
+		"url": "acestream://d1931a8695da1b97d922ba0c3bf264b08c07afd7"
+		},
+		{
+		"name": "Capitulo 2",
+		"info": "",
+		"image": "",
+		"url": "acestream://26347a1e5e172e9920db02fe306f65fadca29a01"
+		},
+
+		{
+		"name": "Capitulo 3",
+		"info": "",
+		"image": "",
+		"url": "acestream://aa19dc193ddb1c9b59db139de4c77337f2b364bd"
+		},
+
+
+
+		]
+	},
+	{
+	"name": "Secuestro en el aire (2023)",
+	"image": "https://images.weserv.nl/?url=https://server-local-storage556-mad51.ultracdn.org/imagenes//series/hijack-763698932-mmed.jpg",
+	"imageScale": "",
+	"info":"APPLE TV",
+	"stations":
+		[
+
+
+		{
+		"name": "Secuestro en el aire",
+		"info": "CAPITULO 1",
+		"image": "",
+		"url": "acestream://9f796901780f2371f165ef002e420ef46b484e90"
+		},
+		{
+		"name": "Secuestro en el aire",
+		"info": "CAPITULO 2",
+		"image": "",
+		"url": "acestream://89500fc6cf63c1de5d81db66eae33324c661c6c4"
+		},
+		{
+		"name": "Secuestro en el aire",
+		"info":"CAPITULO 3",
+		"image": "",
+		"url": "acestream://282acb6997040bc868c196db650232f2e8239500"
+		},
+		{
+		"name": "Secuestro en el aire",
+		"info":"CAPITULO 4",
+		"image": "",
+		"url": "acestream://c1d79b3cd56e77a552b8f1d7aef35e05f88a47a0"
+		},
+		{
+		"name": "Secuestro en el aire",
+		"info": "CAPITULO 5",
+		"image": "",
+		"url": "acestream://b90129e09d4b42b3819d32974e47869f381948e1"
+		},
+		{
+		"name": "Secuestro en el aire",
+		"info": "CAPITULO 6",
+		"image": "",
+		"url": "acestream://c7a03cbe925ba87d7ca6b2732c18482f81b04294"
+		},
+		{
+		"name": "Secuestro en el aire",
+		"info": "CAPITULO 7",
+		"image": "",
+		"url": "acestream://6c6686c2d12d5cebacf400f3e0c0ec84a938dfca"
+		}
+
+		]
+	},
+	{
+	"name": "FORMULA 1: DRIVE TO SURVIVE",
+	"image": "https://pbs.twimg.com/media/FonfgWRXoAAEIQN.jpg:large",
+	"imageScale": "",
+	"info":"NETFLIX",
+	"stations":
+		[
+
+
+		{
+		"name": "T1 COMPLETA",
+		"info": "VOSE",
+		"image": "",
+		"url": "acestream://724d9c4d9753cbb088176c6d864fb3f502c05e21"
+		},
+		{
+		"name": "T2 COMPLETA",
+		"info": "VOSE",
+		"image": "",
+		"url": "acestream://e1b249319b3eb44f043d3a65dc79fe9cc5631d57"
+		},
+		{
+		"name": "T3 COMPLETA",
+		"info": "VOSE",
+		"image": "",
+		"url": "acestream://491bcde8dc1a969c63931083d529566ea5c2da10"
+		},
+		{
+		"name": "T4 COMPLETA",
+		"info": "VOSE",
+		"image": "",
+		"url": "acestream://8644be23f376c0dbd39f7f02621518616d988e98"
+		},
+		{
+		"name": "T5 COMPLETA",
+		"info": "VOSE",
+		"image": "",
+		"url": "acestream://02fbb58184005496fbdc4bc7c5c65500bed7260b"
+		},
+		{
+		"name": "*NUEVO* T6 COMPLETA",
+		"info": "1080p VOSE",
+		"image": "",
+		"url": "acestream://08c9140f08ff0508060abcbea2fd10988a5a9f07"
+		},
+		{
+		"name": "*NUEVO* T6 COMPLETA",
+		"info": "720p VOSE",
+		"image": "",
+		"url": "acestream://b994bb970ef965297423cf16f559674079329202"
+		}
+
+		]
+	},
+        {
+         "name": "EXTRA SERIES",
+         "image": "",
+         "url": "https://raw.githubusercontent.com/UVEDOBLEIX2/listaprueba/main/pelisachestim2",
+         "info":"",
+         "import": false
+        }
+
+
+
+	]
+}
