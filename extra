@@ -31,7 +31,15 @@
          "url": "https://i.mjh.nz/SamsungTVPlus/es.m3u8",
          "info":"",
          "import": false
+        },
+        {
+         "name": "CHUKY SERIES Y PELIS",
+         "image": "https://i.imgur.com/y1IFs0W.gif",
+         "url": "https://raw.githubusercontent.com/chukyvaliente/chukycine/main/chukycine",
+         "info":"",
+         "import": false
         }
+
 
 
 
