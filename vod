@@ -1,27 +1,27 @@
 {
 "name": "ㄩᐯ乇ᗪㄖ乃ㄥ乇",
-"author": "ㄩᐯ乇ᗪㄖ乃ㄥ乇",
+"author": "ㄩᐯ乇²",
 "image": "https://i.imgur.com/Lo88lce.gif",
 "info":"",
 "telegram":"",
 "groups":
         [
         {
-        "name": "PELIS",
+        "name": "",
         "image": "https://i.imgur.com/JTAr9BI.gif",
         "url": "https://raw.githubusercontent.com/UVEDOBLEIX2/uvedobletv/main/vod-pelis",
         "info":"",
         "import": false
         },
         {
-        "name": "SERIES",
+        "name": "",
         "image": "https://i.imgur.com/aWkT5rO.gif",
         "url": "https://raw.githubusercontent.com/UVEDOBLEIX2/uvedobletv/main/vod-series",
         "info":"",
         "import": false
         },
         {
-        "name": "PROGRAMAS Y DOCUMENTALES",
+        "name": "",
         "image": "https://i.imgur.com/u9ZSu9k.gif",
         "url": "https://raw.githubusercontent.com/UVEDOBLEIX2/uvedobletv/main/vod-extra",
         "import": false
