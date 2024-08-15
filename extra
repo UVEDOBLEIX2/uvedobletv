@@ -13,7 +13,7 @@
 
         {
          "name": "TDT CHANNELS",
-         "image": "https://i.imgur.com/y1IFs0W.gif",
+         "image": "https://i.imgur.com/YAaMwxN.png",
          "url": "https://www.tdtchannels.com/lists/tvradio.w3u",
          "info":"",
          "import": false
@@ -21,20 +21,20 @@
         {
          "name": "PLEX TV",
          "image": "https://i.imgur.com/y1IFs0W.gif",
-         "url": "https://i.mjh.nz/Plex/all.m3u8",
+         "url": "https://i.imgur.com/YAaMwxN.png",
          "info":"",
          "import": false
         },
         {
          "name": "SAMSUNG TV",
-         "image": "https://i.imgur.com/y1IFs0W.gif",
+         "image": "https://i.imgur.com/yBJOxBd.jpg",
          "url": "https://i.mjh.nz/SamsungTVPlus/es.m3u8",
          "info":"",
          "import": false
         },
         {
          "name": "CHUKY SERIES Y PELIS",
-         "image": "https://i.imgur.com/y1IFs0W.gif",
+         "image": "https://i.imgur.com/u9ZSu9k.gif",
          "url": "https://raw.githubusercontent.com/chukyvaliente/chukycine/main/chukycine",
          "info":"",
          "import": false
