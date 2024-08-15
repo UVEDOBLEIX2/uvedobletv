@@ -8,22 +8,22 @@
         [
         {
         "name": "PELIS",
-        "image": "",
-        "url": "https://raw.githubusercontent.com/UVEDOBLEIX2/listaprueba/main/PELIACHESTRIM",
+        "image": "https://i.imgur.com/JTAr9BI.gif",
+        "url": "https://raw.githubusercontent.com/UVEDOBLEIX2/uvedobletv/main/vod-pelis",
         "info":"",
         "import": false
         },
         {
         "name": "SERIES",
-        "image": "",
-        "url": "https://raw.githubusercontent.com/UVEDOBLEIX2/listaprueba/main/SERIESACHESTRIM",
+        "image": "https://i.imgur.com/aWkT5rO.gif",
+        "url": "https://raw.githubusercontent.com/UVEDOBLEIX2/uvedobletv/main/vod-series",
         "info":"",
         "import": false
         },
         {
         "name": "PROGRAMAS Y DOCUMENTALES",
-        "image": "https://i.pinimg.com/originals/d4/a0/54/d4a0542cf0d27bc9c10877bc191dfa3b.gif",
-        "url": "",
+        "image": "https://i.imgur.com/u9ZSu9k.gif",
+        "url": "https://raw.githubusercontent.com/UVEDOBLEIX2/uvedobletv/main/vod-extra",
         "import": false
         }
         ]
