@@ -1,1 +1,39 @@
 
+
+{
+    "name": "EXTRA",
+    "author": "EXTRA | ㄩᐯ乇²",
+    "url": "",
+    "image": "https://i.imgur.com/u9ZSu9k.gif",
+    "telegram": "",
+    "info": "",
+    "groups": 
+
+	[
+
+        {
+         "name": "TDT CHANNELS",
+         "image": "https://i.imgur.com/y1IFs0W.gif",
+         "url": "https://www.tdtchannels.com/lists/tvradio.w3u",
+         "info":"",
+         "import": false
+        },
+        {
+         "name": "PLEX TV",
+         "image": "https://i.imgur.com/y1IFs0W.gif",
+         "url": "https://i.mjh.nz/Plex/all.m3u8",
+         "info":"",
+         "import": false
+        },
+        {
+         "name": "SAMSUNG TV",
+         "image": "https://i.imgur.com/y1IFs0W.gif",
+         "url": "https://i.mjh.nz/SamsungTVPlus/es.m3u8",
+         "info":"",
+         "import": false
+        }
+
+
+
+	]
+}
