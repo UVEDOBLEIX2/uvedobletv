@@ -401,6 +401,16 @@
 		]
 	}
 	]
+        [
+
+        {
+         "name": "CHUKY",
+         "image": "https://i.imgur.com/JTAr9BI.gif",
+         "url": "https://raw.githubusercontent.com/chukyvaliente/chukycine/main/chukycine",
+         "info":"",
+         "import": false
+        }
+	]
 
 
 	
