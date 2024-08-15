@@ -7,27 +7,27 @@
 "groups":
         [
         {
-        "name": "CANALES",
+        "name": "",
         "image": "https://i.imgur.com/eIJw2hn.gif",
         "url": "https://raw.githubusercontent.com/UVEDOBLEIX2/uvedobletv/main/channels",
         "info":"",
         "import": false
         },
         {
-        "name": "VOD",
+        "name": "",
         "image": "https://i.imgur.com/GUPM85i.gif",
         "url": "https://raw.githubusercontent.com/UVEDOBLEIX2/uvedobletv/main/vod",
         "info":"",
         "import": false
         },
         {
-        "name": "IPTV",
+        "name": "",
         "image": "https://i.imgur.com/y1IFs0W.gif",
         "url": "https://raw.githubusercontent.com/UVEDOBLEIX2/uvedobletv/main/iptv",
         "import": false
         },
         {
-        "name": "EXTRA",
+        "name": "",
         "image": "https://i.imgur.com/u9ZSu9k.gif",
         "url": "",
         "import": false
