@@ -14,15 +14,22 @@
         {
          "name": "IPTV 1",
          "image": "https://i.imgur.com/y1IFs0W.gif",
-         "url": "",
-         "info":"PROXIMAMENTE",
+         "url": "http://ather.nicgoto.xyz:80/get.php?username=Gonzalez36&password=68647539&type=m3u_plus",
+         "info":"",
          "import": false
         },
         {
          "name": "IPTV 2",
          "image": "https://i.imgur.com/y1IFs0W.gif",
-         "url": "",
-         "info":"PROXIMAMENTE",
+         "url": "http://tv.soccerplus.link:8000/get.php?username=U0Si1f8DjK&password=Oi6SK9YSoD&type=m3u_plus",
+         "info":"",
+         "import": false
+        },
+        {
+         "name": "IPTV 3",
+         "image": "https://i.imgur.com/y1IFs0W.gif",
+         "url": "http://bankt.top:8080/get.php?username=281708370187002&password=eaba847acce3&type=m3u_plus",
+         "info":"",
          "import": false
         }
 
