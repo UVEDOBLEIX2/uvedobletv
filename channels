@@ -91,18 +91,6 @@
 		"url": "acestream://8c71f0e0a5476e10950fc827f9d2a507340aba74"
 		},
 		{
-		"name": "DAZN LaLiga 4 [1080][Multiaudio]",
-		"info": "973e",
-		"image": "https://telegra.ph/file/58cbca971f554effdfba8.jpg",
-		"url": "acestream://2792a8a5f4a3f53cd72dec377a2639cd12a6973e"
-		},
-		{
-		"name": "DAZN LaLiga 5 [1080][Multiaudio]",
-		"info": "edf7",
-		"image": "https://telegra.ph/file/be7e3f2a10da528ba5e38.jpg",
-		"url": "acestream://99e544cddbee13798e854c1009ee7d1a93fdedf7"
-		},
-		{
 		"name": "M+ LaLiga Tv [1080]",
 		"info": "opcion 0",
 		"image": "https://telegra.ph/file/ede750e0a9de6e726a3f7.jpg",
@@ -161,24 +149,6 @@
 		"info": "opcion 1",
 		"image": "https://telegra.ph/file/d9a9b3f25fff3ffff3ab5.jpg",
 		"url": "acestream://4c4844564313e39a888f593511f299f5ba3cf929"
-		},
-		{
-		"name": "M+ LaLiga Tv 4 [1080]",
-		"info": "a8b0",
-		"image": "https://telegra.ph/file/dbf9f93a95f2e1d732098.jpg",
-		"url": "acestream://aa8f826da70e27a26b29c7b32402f17e8a67a8b0"
-		},
-		{
-		"name": "M+ LaLiga Tv 5 [1080]",
-		"info": "70b2",
-		"image": "https://telegra.ph/file/2bf2e508d5e905203eae0.jpg",
-		"url": "acestream://535394f62a810bc5aeb25be75ea5ff7d03e070b2"
-		},
-		{
-		"name": "M+ LaLiga Tv 6 [1080]",
-		"info": "b51b",
-		"image": "https://telegra.ph/file/1beb547ed9a6f41b3aabc.jpg",
-		"url": "acestream://c896d37778f9e43549a788fc22206a655895b51b"
 		},
 		{
 		"name": "LaLiga Tv Bar [1080]",
