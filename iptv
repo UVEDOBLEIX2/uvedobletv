@@ -1,1 +1,32 @@
 
+
+{
+    "name": "IPTV ACESTREAM",
+    "author": "IPTV | ㄩᐯ乇²",
+    "url": "",
+    "image": "https://i.imgur.com/y1IFs0W.gif",
+    "telegram": "",
+    "info": "",
+    "groups": 
+
+	[
+
+        {
+         "name": "IPTV 1",
+         "image": "",
+         "url": "https://i.imgur.com/y1IFs0W.gif",
+         "info":"PROXIMAMENTE",
+         "import": false
+        },
+        {
+         "name": "IPTV 2",
+         "image": "",
+         "url": "https://i.imgur.com/y1IFs0W.gif",
+         "info":"PROXIMAMENTE",
+         "import": false
+        }
+
+
+
+	]
+}
