@@ -405,20 +405,9 @@
 		{
 		"name": "CHUKY",
 		"image": "https://i.imgur.com/JTAr9BI.gif",
-		"imageScale": "",
+		"url": "https://raw.githubusercontent.com/chukyvaliente/chukycine/main/chukycine",
 		"info":"",
 		"stations":
-	
-	
-				[
-		
-				{
-				"name": "ENTRA",
-				"info": "",
-				"image": "https://cdn-icons-png.flaticon.com/512/1057/1057190.png",
-				"url": "https://raw.githubusercontent.com/chukyvaliente/chukycine/main/chukycine"
-				}
-				]
 		}
 	]
 
