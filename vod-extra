@@ -1,1 +1,119 @@
+{
+    "name": "contenido extra",
+    "author": "EXTRA | ㄩᐯ乇²",
+    "url": "http://wiwihd.jimdo.com/",
+    "image": "https://i.imgur.com/u9ZSu9k.gif",
+    "telegram": "",
+    "info": "",
+    "groups": 
 
+	[
+
+	{
+	"name": "Batalla de restaurantes",
+	"image": "https://www.huleymantel.com/uploads/s1/47/27/28/foto-apertura-hule-y-mantel-laia-2024-01-29t132922-436.webp",
+	"imageScale": "",
+	"info":"",
+	"stations":
+		[
+
+
+		{
+		"name": "Capitulo 1",
+		"info": "TEMPORADA 1",
+		"image": "https://www.huleymantel.com/uploads/s1/47/27/28/foto-apertura-hule-y-mantel-laia-2024-01-29t132922-436.webp",
+		"url": "acestream://206b04322544c1881b58b48f7001c9476c4fc50b"
+		},
+		{
+		"name": "Capitulo 2",
+		"info": "TEMPORADA 1",
+		"image": "https://www.huleymantel.com/uploads/s1/47/27/28/foto-apertura-hule-y-mantel-laia-2024-01-29t132922-436.webp",
+		"url": "acestream://1f3eac33295d1ef9573ee845189fd5b454cb7c78"
+		},
+
+		{
+		"name": "Capitulo 3",
+		"info": "NO DISPONIBLE AUN",
+		"image": "https://www.huleymantel.com/uploads/s1/47/27/28/foto-apertura-hule-y-mantel-laia-2024-01-29t132922-436.webp",
+		"url": ""
+		},
+
+
+
+		]
+	},
+	{
+	"name": "Esta ambicion desmedida",
+	"image": "https://pics.filmaffinity.com/Esta_ambiciaon_desmedida-274257023-large.jpg",
+	"imageScale": "",
+	"info":"",
+	"stations":
+		[
+
+
+		{
+		"name": "Capitulo 1",
+		"info": "",
+		"image": "https://pics.filmaffinity.com/Esta_ambiciaon_desmedida-274257023-large.jpg",
+		"url": "acestream://4f73371e81685a408dd7d1067baa21e6bd5196db"
+		},
+		{
+		"name": "Capitulo 2",
+		"info": "",
+		"image": "https://pics.filmaffinity.com/Esta_ambiciaon_desmedida-274257023-large.jpg",
+		"url": ""
+		},
+
+		{
+		"name": "Capitulo 3",
+		"info": "",
+		"image": "https://pics.filmaffinity.com/Esta_ambiciaon_desmedida-274257023-large.jpg",
+		"url": ""
+		},
+
+
+
+		]
+	}
+
+
+        
+
+
+
+	]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		[
+
+		{
+		"name": "Batalla de restaurantes",
+		"info": "CAPITULO 1",
+		"image": "https://www.huleymantel.com/uploads/s1/47/27/28/foto-apertura-hule-y-mantel-laia-2024-01-29t132922-436.webp",
+		"url": "acestream://206b04322544c1881b58b48f7001c9476c4fc50b"
+		},
+		{
+		"name": "Batalla de restaurantes",
+		"info": "CAPITULO 2",
+		"image": "https://www.huleymantel.com/uploads/s1/47/27/28/foto-apertura-hule-y-mantel-laia-2024-01-29t132922-436.webp",
+		"url": "acestream://1f3eac33295d1ef9573ee845189fd5b454cb7c78"
+		}
+
+		]
+	}
+	]
