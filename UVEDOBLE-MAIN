@@ -1,6 +1,6 @@
 {
 "name": "ㄩᐯ乇ᗪㄖ乃ㄥ乇",
-"author": "Wiwi",
+"author": "ㄩᐯ乇ᗪㄖ乃ㄥ乇",
 "image": "https://i.imgur.com/h8E0Jm4.gif",
 "info":"",
 "telegram":"",
@@ -9,22 +9,21 @@
         {
         "name": "CANALES",
         "image": "https://i.pinimg.com/originals/d4/a0/54/d4a0542cf0d27bc9c10877bc191dfa3b.gif",
-        "url": "",
+        "url": "https://raw.githubusercontent.com/UVEDOBLEIX2/uvedobletv/main/channels",
         "info":"",
         "import": false
         },
         {
-        "name": "PELICULAS",
+        "name": "VOD",
         "image": "https://i.pinimg.com/originals/d4/a0/54/d4a0542cf0d27bc9c10877bc191dfa3b.gif",
-        "url": "",
+        "url": "https://raw.githubusercontent.com/UVEDOBLEIX2/uvedobletv/main/vod",
         "info":"",
         "import": false
         },
         {
-        "name": "SERIES",
+        "name": "IPTV",
         "image": "https://i.pinimg.com/originals/d4/a0/54/d4a0542cf0d27bc9c10877bc191dfa3b.gif",
-        "url": "",
-        "info":"IPTV",
+        "url": "https://raw.githubusercontent.com/UVEDOBLEIX2/uvedobletv/main/iptv",
         "import": false
         },
         {
