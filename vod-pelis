@@ -9,423 +9,420 @@
         
         [
 
-	{
-	"name": "PETICIONES",
-	"image": "https://i.imgur.com/JTAr9BI.gif",
-	"imageScale": "",
-	"info":"",
-	"stations":
-
-
-		[
-
 		{
-		"name": "TWISTERS (2024)",
-		"info": "ESPAÑOL 1080P",
-		"image": "https://pics.filmaffinity.com/Twisters-258055631-mmed.jpg",
-		"url": "acestream://6a5f9a46259f689062ba0745791c0053b1c1817d"
+		"name": "PETICIONES",
+		"image": "https://i.imgur.com/JTAr9BI.gif",
+		"imageScale": "",
+		"info":"",
+		"stations":
+	
+	
+			[
+	
+				{
+				"name": "TWISTERS (2024)",
+				"info": "ESPAÑOL 1080P",
+				"image": "https://pics.filmaffinity.com/Twisters-258055631-mmed.jpg",
+				"url": "acestream://6a5f9a46259f689062ba0745791c0053b1c1817d"
+				},
+				{
+				"name": "FLY ME TO THE MOON (2024)",
+				"info": "ESPAÑOL 1080P",
+				"image": "https://pics.filmaffinity.com/Fly_Me_to_the_Moon-933127669-large.jpg",
+				"url": "acestream://2e73041bfecb72f5219b1b35c324c665edc9f258"
+				},
+				{
+				"name": "MONKEY MAN (2024)",
+				"info": "ESPAÑOL 1080P",
+				"image": "https://pics.filmaffinity.com/monkey_man-172706747-mmed.jpg",
+				"url": "acestream://c417602de1757b69ce777f3c9ebdb11795952dbf"
+				},
+				{
+				"name": "FREELANCE (2024)",
+				"info": "ESPAÑOL 1080P",
+				"image": "https://pics.filmaffinity.com/Freelance-259963418-large.jpg",
+				"url": "acestream://58e66dbae6b1a3f390cc3e796b1e288807032c5d"
+				},
+				{
+				"name": "EL ESPECIALISTA (THE FALL GUY) (2024)",
+				"info": "ESPAÑOL 1080P",
+				"image": "https://pics.filmaffinity.com/El_especialista-101581348-large.jpg",
+				"url": "acestream://c4bf78715a2bbb6e7a71918cdac08656bbb92f56"
+				},
+				{
+				"name": "BAD BOYS RIDE OR DIE (2024)",
+				"info": "ESPAÑOL 1080P",
+				"image": "https://abcelsaler.reservaentradas.com/abcelsaler/obj/LCinesD_dat/eventos/JPG000qw.jpg",
+				"url": "acestream://03a737a9ed78f2d3d16ee52ceb138d2436301ae0"
+				},
+				{
+				"name": "EL REINO DEL PLANETA DE LOS SIMIOS (2024)",
+				"info": "ESPAÑOL 1080P",
+				"image": "https://www.aceprensa.com/wp-content/uploads/2024/05/el-reino-del-planeta-de-los-simios.jpg",
+				"url": "acestream://790ceedbf7e734e752f8f0e76e41eefeed91bdaa"
+				},
+				{
+				"name": "LA GUERRA DEL PLANETA DE LOS SIMIOS (2017)",
+				"info": "ESPAÑOL 1080P",
+				"image": "https://pics.filmaffinity.com/La_guerra_del_planeta_de_los_simios-159759992-large.jpg",
+				"url": "acestream://762f5898c6ace9ad6cb4b6756412d0b69bbfed05"
+				},
+				{
+				"name": "EL AMANECER DEL PLANETA DE LOS SIMIOS (2014)",
+				"info": "ESPAÑOL 1080P",
+				"image": "https://www.aceprensa.com/wp-content/uploads/2014/07/119450-0.jpg",
+				"url": "acestream://744f13cf873ebc70688e72ae5d13b8fe92758a76"
+				},
+				{
+				"name": "EL ORIGEN DEL PLANETA DE LOS SIMIOS (2011)",
+				"info": "ESPAÑOL 1080P",
+				"image": "https://musicart.xboxlive.com/7/bcb13f00-0000-0000-0000-000000000002/504/image.jpg?w=1920&h=1080",
+				"url": "acestream://09908e8c7c2531e7427f46a769d297b3d7a5d6d9"
+				},
+				{
+				"name": "Superdetective en Hollywood: Axel F.",
+				"info": "ESPAÑOL 1080P",
+				"image": "https://pics.filmaffinity.com/beverly_hills_cop_axel_f-226447356-mmed.jpg",
+				"url": "acestream://f1a3a2f864f871c8b586b77738d58a7354bea9de"
+				},
+				{
+				"name": "FURIOSA (MAD MAX)",
+				"info": "ESPAÑOL 1080P",
+				"image": "https://pics.filmaffinity.com/furiosa_a_mad_max_saga-599306128-mmed.jpg",
+				"url": "acestream://5bb667b61f18af86231bf77136cd2ac6abc77891"
+				},
+				{
+				"name": "Rivales (Challengers)",
+				"info": "ESPAÑOL 1080P",
+				"image": "https://pics.filmaffinity.com/Rivales-325765300-large.jpg",
+				"url": "acestream://ace3a8a00ff9964c13b5f0d38a38ef320c637edd"
+				},
+				{
+				"name": "Beekeeper: El protector",
+				"info": "ESPAÑOL 1080P",
+				"image": "https://images.weserv.nl/?url=https://server-local-bucket166-mad44.ultracdn.org/imagenes//peliculas/Beekeeper-El-protector--2024---BluRay-1080p.jpg",
+				"url": "acestream://00c5ecaeff6fa00fc6c07bfebd2e7e283160deaf"
+				},
+				{
+				"name": "Godzilla y Kong: El nuevo imperio",
+				"info": "ESPAÑOL 1080P",
+				"image": "https://images.weserv.nl/?url=https://server-local-bucket166-mad44.ultracdn.org/imagenes//peliculas/godzilla-y-kong-el-nuevo-imperio--2024---BluRay-1080p_20_1029.jpg",
+				"url": "acestream://56eade83960069c84f1c9538954ce1bb4d9248f9"
+				},
+				{
+				"name": "Cazafantasmas: Imperio helado",
+				"info": "ESPAÑOL 1080P",
+				"image": "https://images.weserv.nl/?url=https://server-local-bucket166-mad44.ultracdn.org/imagenes//peliculas/cazafantasmas-imperio-helado--2024---BluRay-1080p_20_1029.jpg",
+				"url": "acestream://102ae500d80e70f668b3da7408ddc8c5ab560bd4"
+				},
+				{
+				"name": "MADAME WEB",
+				"info": "ESPAÑOL 1080P",
+				"image": "https://pics.filmaffinity.com/Madame_Web-759178425-large.jpg",
+				"url": "acestream://71750adc8e227fc50e7c511068606390f406bfb5"
+				},
+				{
+				"name": "AQUAMAN Y EL REINO PERDIDO",
+				"info": "ESPAÑOL 1080P",
+				"image": "https://pics.filmaffinity.com/Aquaman_y_el_reino_perdido-274178849-large.jpg",
+				"url": "acestream://7c66d388c098f60b2314b1cc8e6ccbdb5d134d2e"
+				},
+				{
+				"name": "SALTBURN",
+				"info": "ESPAÑOL 1080P",
+				"image": "https://images.weserv.nl/?url=https://server-local-storage556-mad51.ultracdn.org/imagenes//peliculas/Saltburn--2023---BluRay-1080p.jpg",
+				"url": "acestream://782ddfa17667e3dfd379a5b516a391ad34c1fadd"
+				},
+				{
+				"name": "WONKA",
+				"info": "ESPAÑOL 1080P",
+				"image": "https://www.ecartelera.com/carteles/17300/17357/004_m.jpg",
+				"url": "acestream://156e3e24b502596239c9a03fd6a2a484e2f4d892"
+				},
+				{
+				"name": "HYPNOTIC",
+				"info": "ESPAÑOL 720P",
+				"image": "https://pics.filmaffinity.com/Hypnotic-599632335-large.jpg",
+				"url": "acestream://21caf7b1c7a8223731c4a018d2b711ce388e2a3c"
+				},
+				{
+				"name": "LOS MERCENARIOS 4",
+				"info": "ESPAÑOL 720P",
+				"image": "https://hips.hearstapps.com/hmg-prod/images/mercenarios-4-poster-6511ad83ba621.jpg",
+				"url": "acestream://c3290c159728fef8ef17a81e7d3fa655791bb4a3"
+				},
+				{
+				"name": "LA SOCIEDAD DE LA NIEVE",
+				"info": "ESPAÑOL 1080P",
+				"image": "https://www.bizcochito.es/Films/Poster/tt16277242.webp",
+				"url": "acestream://9efac12d7405d676fadcce7cde842b27dd339fbe"
+				},
+				{
+				"name": "THE MARVELS",
+				"info": "ESPAÑOL 1080P",
+				"image": "https://www.mubis.es/media/users/12828/321885/nuevo-poster-de-the-marvels-original.jpg",
+				"url": "acestream://b617628df78aeed530d684be28d2206176b85501"
+				},
+				{
+				"name": "THE MARVELS",
+				"info": "ESPAÑOL 720P",
+				"image": "https://www.mubis.es/media/users/12828/321885/nuevo-poster-de-the-marvels-original.jpg",
+				"url": "acestream://aaecdcb2a8a82cc34ca59e5455629c766f9be32e"
+				},
+				{
+				"name": "NAPOLEON",
+				"info": "ESPAÑOL 1080P",
+				"image": "https://images.weserv.nl/?url=https://server-local-storage556-mad51.ultracdn.org/imagenes//peliculas/Napoleon--2023---BluRay-1080p.jpg",
+				"url": "acestream://9a6a0bf17dd15aea190f509599dd92bf4cd68ddd"
+				},
+				{
+				"name": "SIN MALOS ROLLOS",
+				"info": "ESPAÑOL 1080P",
+				"image": "https://pics.filmaffinity.com/Sin_malos_rollos-195103882-large.jpg",
+				"url": "acestream://99861b097e1cc5c6da746efbe2309576ba3bb360"
+				},
+				{
+				"name": "CAMPEONEX",
+				"info": "ESPAÑOL 1080P",
+				"image": "https://pics.filmaffinity.com/Campeonex-966482082-large.jpg",
+				"url": "acestream://d4dd82fd5dfea34db557dd5965da68dd9303bcf0"
+				},
+				{
+				"name": "DEJAR EL MUNDO ATRAS",
+				"info": "ESPAÑOL 1080P",
+				"image": "https://areajugones.sport.es/wp-content/uploads/2023/12/dejar-el-mundo-atras.jpg",
+				"url": "acestream://dba2dbe90fad1a30e029c4c978b7891ea8f01df2"
+				},
+				{
+				"name": "LOS ASESINOS DE LA LUNA",
+				"info": "ESPAÑOL 1080P",
+				"image": "https://static.cinepolis.com/resources/mx/movies/posters/414x603/43707-238454-20231018071357.jpg",
+				"url": "acestream://8b1df56b8d66300de36c4ce86be87ebc7ea8bfa8"
+				},
+				{
+				"name": "LOS ASESINOS DE LA LUNA",
+				"info": "ESPAÑOL 720P",
+				"image": "https://static.cinepolis.com/resources/mx/movies/posters/414x603/43707-238454-20231018071357.jpg",
+				"url": "acestream://3559850ee56e319e6624065d3b9fe866720c6bf7"
+				},
+				{
+				"name": "SIETE HERMANAS",
+				"info": "ESPAÑOL 1080P",
+				"image": "https://images.weserv.nl/?url=https://server-local-storage556-mad51.ultracdn.org/imagenes//peliculas/siete-hermanas--bluray-microhd.jpg",
+				"url": "acestream://04cbb695e1b4cb364ec6f687411eb3d35d996a13"
+				},
+				{
+				"name": "THE CREATOR",
+				"info": "ESPAÑOL 1080P",
+				"image": "https://pics.filmaffinity.com/the_creator-470808400-mmed.jpg",
+				"url": "acestream://6157e8f2e59ca5be675b01b29edd57f86a16d5b1"
+				},
+				{
+				"name": "OPPENHEIMER",
+				"info": "ESPAÑOL 1080P",
+				"image": "https://images.weserv.nl/?url=https://server-local-storage556-mad51.ultracdn.org/imagenes//peliculas/oppenheimer-828933592-mmed.jpg",
+				"url": "acestream://088234cdaf8864e2016ca0eb2ba5c16078aead96"
+				},
+				{
+				"name": "Misión imposible: sentencia mortal - Parte 1",
+				"info": "ESPAÑOL 1080P",
+				"image": "https://pics.filmaffinity.com/Misiaon_imposible_Sentencia_mortal_Parte_1-902615661-large.jpg",
+				"url": "acestream://b1dacb445ce8c69f4d474029b70f680155b67c6b"
+				},
+				{
+				"name": "Misión imposible: sentencia mortal - Parte 1",
+				"info": "ESPAÑOL 720p",
+				"image": "https://pics.filmaffinity.com/Misiaon_imposible_Sentencia_mortal_Parte_1-902615661-large.jpg",
+				"url": "acestream://8aaf5b16bb4ef3675dc4258e2598282a74914d51"
+				},
+				{
+				"name": "Awareness",
+				"info": "ESPAÑOL 1080P",
+				"image": "https://pics.filmaffinity.com/awareness-228878296-mmed.jpg",
+				"url": "acestream://ec78bc5bea8badfd71d6028d80d707388ccb7983"
+				},
+				{
+				"name": "Upon Entry (La llegada)",
+				"info": "ESPAÑOL 1080P",
+				"image": "https://pics.filmaffinity.com/upon_entry-360819012-mmed.jpg",
+				"url": "acestream://bf11a852527c5a3bfd87516dac1806dcdbc58a08"
+				},
+				{
+				"name": "THE EQUALIZER 1",
+				"info": "ESPAÑOL 1080P",
+				"image": "https://images.weserv.nl/?url=https://server-local-storage556-mad51.ultracdn.org/imagenes//peliculas/The%20Equalizerb.jpg",
+				"url": "acestream://05743eb361feb7072c94aee52c8d7817adff7028"
+				},
+				{
+				"name": "THE EQUALIZER 2",
+				"info": "ESPAÑOL 1080P",
+				"image": "https://images.weserv.nl/?url=https://server-local-storage556-mad51.ultracdn.org/imagenes//peliculas/The%20Equalizer%202b.jpg",
+				"url": "acestream://b1ba5188f0abdc79657f1aa2534b82236c242c8b"
+				},
+				{
+				"name": "THE EQUALIZER 3",
+				"info": "ESPAÑOL 1080P",
+				"image": "https://images.weserv.nl/?url=https://server-local-storage556-mad51.ultracdn.org/imagenes//peliculas/The-Equalizer-3--2023---BluRay-1080p.jpg",
+				"url": "acestream://96e6f8a44e582fcdc74b6f6febfab3ceb50a83ec"
+				},
+				{
+				"name": "SUPER MARIO BROS",
+				"info": "ESPAÑOL 1080P",
+				"image": "https://images.weserv.nl/?url=https://server-local-storage556-mad51.ultracdn.org/imagenes//peliculas/The-Super-Mario-Bros-Movie--2023---BluRay-1080p.jpg",
+				"url": "acestream://ae63320ed45dd9e6f8c4ca546f5e8af475b8b4b8"
+				},
+				{
+				"name": "GRAN TURISMO",
+				"info": "ESPAÑOL 1080P",
+				"image": "https://pics.filmaffinity.com/Gran_Turismo-703890981-large.jpg",
+				"url": "acestream://27de40c799b4aaa883b5860258dd0a255b6bc96f"
+				},
+				{
+				"name": "BLUE BEETLE",
+				"info": "ESPAÑOL 1080P",
+				"image": "https://m.media-amazon.com/images/M/MV5BMmY1ODUzZGItNDllOS00MDBhLTg4NmUtYjU4YjUxMGNlYmMwXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_FMjpg_UX1000_.jpg",
+				"url": "acestream://7c60be8f6c8800ecfcb04f5321eecd1a12a6434b"
+				},
+				{
+				"name": "EL PEOR VECINO DEL MUNDO",
+				"info": "ESPAÑOL 1080P",
+				"image": "https://pics.filmaffinity.com/El_peor_vecino_del_mundo-127395772-large.jpg",
+				"url": "acestream://bfeb28cb9dbef6d48dbd88827496c67f337c936d"
+				},
+				{
+				"name": "LLAMAN A LA PUERTA",
+				"info": "ESPAÑOL 1080P",
+				"image": "https://pics.filmaffinity.com/Llaman_a_la_puerta-362107236-large.jpg",
+				"url": "acestream://31443eb357d49ed0d8603eb5145ed5c06746c3ee"
+				},
+				{
+				"name": "INSIDIOUS: LA PUERTA ROJA",
+				"info": "ESPAÑOL 1080P",
+				"image": "https://pics.filmaffinity.com/Insidious_La_puerta_roja-842155229-large.jpg",
+				"url": "acestream://4e8dbe9c4ea9e7fd302726444a8b6f24948e9bde"
+				},
+				{
+				"name": "FAST X",
+				"info": "ESPAÑOL 1080p",
+				"image": "https://pics.filmaffinity.com/Fast_Furious_X-556821969-large.jpg",
+				"url": "acestream://9df722ed6f3fe0760981cfb0f027e08bd192c761"
+				},
+				{
+				"name": "BARBIE",
+				"info": "ESPAÑOL 1080P",
+				"image": "https://es.web.img2.acsta.net/pictures/23/07/20/11/29/5479684.jpg",
+				"url": "acestream://3a9beec0ff124ea11d77009950835eb7945dd819"
+				},
+				{
+				"name": "Flash",
+				"info": "ESPAÑOL 1080P",
+				"image": "https://pics.filmaffinity.com/Flash-205686824-large.jpg",
+				"url": "acestream://96f2e4446b4f840058ed84647c5073245004ef7e"
+				},
+				{
+				"name": "Transformers: El despertar de las bestias",
+				"info": "ESPAÑOL 1080P",
+				"image": "https://images.weserv.nl/?url=https://server-local-storage556-mad51.ultracdn.org/imagenes//peliculas/Transformers-El-despertar-de-las-bestias--BluRay-1080p.jpg",
+				"url": "acestream://815d8a603e3ceec4177a7f3d33feeae4329d7f97"
+				},
+				{
+				"name": "La sirenita",
+				"info":"ESPAÑOL 1080P",
+				"image": "https://images.weserv.nl/?url=https://server-local-storage556-mad51.ultracdn.org/imagenes//peliculas/La-sirenita--2023---BluRay-1080p.jpg",
+				"url": "acestream://2fde831addc43320a10ac234020a1404d7746124"
+				},
+				{
+				"name": "Agente Stone",
+				"info":"ESPAÑOL 720P",
+				"image": "https://images.weserv.nl/?url=https://server-local-storage556-mad51.ultracdn.org/imagenes//peliculas/Agente-Stone--2023---BluRay-1080p.jpg",
+				"url": "acestream://7ce73b89de1f6016facc60cfbc9d5b52c68934ee"
+				},
+				{
+				"name": "Shazam La furia de los dioses",
+				"info": "ESPAÑOL 1080P",
+				"image": "https://pics.filmaffinity.com/aShazam_La_furia_de_los_dioses-942384944-large.jpg",
+				"url": "acestream://5d54abf610f589a0a900f234f1371dfe3299b7bf"
+				},
+				{
+				"name": "Spiderman: No way home",
+				"info": "ESPAÑOL 1440P (TARDA EN CARGAR)",
+				"image": "https://pics.filmaffinity.com/Spider_Man_No_Way_Home-642739124-large.jpg",
+				"url": "acestream://6dff7ffba4e22e6787f6e3c91f9b1781047c688b"
+				},
+				{
+				"name": "Spider-Man: Cruzando el Multiverso",
+				"info": "ESPAÑOL 1080p",
+				"image": "https://images.weserv.nl/?url=https://server-local-storage556-mad51.ultracdn.org/imagenes//peliculas/Spider-Man-Cruzando-el-Multiverso--2023---BluRay-1080p.jpg",
+				"url": "acestream://bea09e9c4de96b3a4ec5fe65a0ab1a8faf068b11"
+				},
+				{
+				"name": "FAST X",
+				"info": "ESPAÑOL 1080p",
+				"image": "https://pics.filmaffinity.com/Fast_Furious_X-556821969-large.jpg",
+				"url": "acestream://9df722ed6f3fe0760981cfb0f027e08bd192c761"
+				},
+				{
+				"name": "NOPE",
+				"info": "ESPAÑOL 1080p",
+				"image": "https://pics.filmaffinity.com/Nop-999319780-large.jpg",
+				"url": "acestream://12caafadea3997a4ea3418a05035fbf6c20e37b8"
+				},
+				{
+				"name": "Megalodon 2",
+				"info": "ESPAÑOL 1080P",
+				"image": "https://es.web.img3.acsta.net/pictures/23/05/09/10/42/0347977.jpg",
+				"url": "acestream://511f19cb8699ce7d26a8ae1ea79ffe12fae7103e"
+				},
+				{
+				"name": "Her.",
+				"info": "ESPAÑOL 1080P",
+				"image": "https://pics.filmaffinity.com/Her-716403893-large.jpg",
+				"url": "acestream://71e61adf11c1eed462551f2868c2c88675eafe39"
+				},
+				{
+				"name": "Ha nacido una estrella",
+				"info": "ESPAÑOL 1080P",
+				"image": "https://images.weserv.nl/?url=https://server-local-storage556-mad51.ultracdn.org/imagenes//peliculas/Ha%20nacido%20una%20estrellabb.jpg",
+				"url": "acestream://68ded72954e65f3b61c9e15726586cadc49d1416"
+				},
+				{
+				"name": "La ballena",
+				"info": "ESPAÑOL 1080P",
+				"image": "https://images.weserv.nl/?url=https://server-local-storage556-mad51.ultracdn.org/imagenes//peliculas/La-ballena--The-Whale---2022---BluRay-1080p.jpg",
+				"url": "acestream://a6b9572a5d12f35af5509b603d045ecd6cc9337d"
+				},
+				{
+				"name": "John Wick 4",
+				"info": "ESPAÑOL 1080P",
+				"image": "https://pics.filmaffinity.com/John_Wick_4-101402041-large.jpg",
+				"url": "acestream://9d1c49409ab68f4a6766541120385890865510c7"
+				}
+	
+			]
 		},
-		{
-		"name": "FLY ME TO THE MOON (2024)",
-		"info": "ESPAÑOL 1080P",
-		"image": "https://pics.filmaffinity.com/Fly_Me_to_the_Moon-933127669-large.jpg",
-		"url": "acestream://2e73041bfecb72f5219b1b35c324c665edc9f258"
-		},
-		{
-		"name": "MONKEY MAN (2024)",
-		"info": "ESPAÑOL 1080P",
-		"image": "https://pics.filmaffinity.com/monkey_man-172706747-mmed.jpg",
-		"url": "acestream://c417602de1757b69ce777f3c9ebdb11795952dbf"
-		},
-		{
-		"name": "FREELANCE (2024)",
-		"info": "ESPAÑOL 1080P",
-		"image": "https://pics.filmaffinity.com/Freelance-259963418-large.jpg",
-		"url": "acestream://58e66dbae6b1a3f390cc3e796b1e288807032c5d"
-		},
-		{
-		"name": "EL ESPECIALISTA (THE FALL GUY) (2024)",
-		"info": "ESPAÑOL 1080P",
-		"image": "https://pics.filmaffinity.com/El_especialista-101581348-large.jpg",
-		"url": "acestream://c4bf78715a2bbb6e7a71918cdac08656bbb92f56"
-		},
-		{
-		"name": "BAD BOYS RIDE OR DIE (2024)",
-		"info": "ESPAÑOL 1080P",
-		"image": "https://abcelsaler.reservaentradas.com/abcelsaler/obj/LCinesD_dat/eventos/JPG000qw.jpg",
-		"url": "acestream://03a737a9ed78f2d3d16ee52ceb138d2436301ae0"
-		},
-		{
-		"name": "EL REINO DEL PLANETA DE LOS SIMIOS (2024)",
-		"info": "ESPAÑOL 1080P",
-		"image": "https://www.aceprensa.com/wp-content/uploads/2024/05/el-reino-del-planeta-de-los-simios.jpg",
-		"url": "acestream://790ceedbf7e734e752f8f0e76e41eefeed91bdaa"
-		},
-		{
-		"name": "LA GUERRA DEL PLANETA DE LOS SIMIOS (2017)",
-		"info": "ESPAÑOL 1080P",
-		"image": "https://pics.filmaffinity.com/La_guerra_del_planeta_de_los_simios-159759992-large.jpg",
-		"url": "acestream://762f5898c6ace9ad6cb4b6756412d0b69bbfed05"
-		},
-		{
-		"name": "EL AMANECER DEL PLANETA DE LOS SIMIOS (2014)",
-		"info": "ESPAÑOL 1080P",
-		"image": "https://www.aceprensa.com/wp-content/uploads/2014/07/119450-0.jpg",
-		"url": "acestream://744f13cf873ebc70688e72ae5d13b8fe92758a76"
-		},
-		{
-		"name": "EL ORIGEN DEL PLANETA DE LOS SIMIOS (2011)",
-		"info": "ESPAÑOL 1080P",
-		"image": "https://musicart.xboxlive.com/7/bcb13f00-0000-0000-0000-000000000002/504/image.jpg?w=1920&h=1080",
-		"url": "acestream://09908e8c7c2531e7427f46a769d297b3d7a5d6d9"
-		},
-		{
-		"name": "Superdetective en Hollywood: Axel F.",
-		"info": "ESPAÑOL 1080P",
-		"image": "https://pics.filmaffinity.com/beverly_hills_cop_axel_f-226447356-mmed.jpg",
-		"url": "acestream://f1a3a2f864f871c8b586b77738d58a7354bea9de"
-		},
-		{
-		"name": "FURIOSA (MAD MAX)",
-		"info": "ESPAÑOL 1080P",
-		"image": "https://pics.filmaffinity.com/furiosa_a_mad_max_saga-599306128-mmed.jpg",
-		"url": "acestream://5bb667b61f18af86231bf77136cd2ac6abc77891"
-		},
-		{
-		"name": "Rivales (Challengers)",
-		"info": "ESPAÑOL 1080P",
-		"image": "https://pics.filmaffinity.com/Rivales-325765300-large.jpg",
-		"url": "acestream://ace3a8a00ff9964c13b5f0d38a38ef320c637edd"
-		},
-		{
-		"name": "Beekeeper: El protector",
-		"info": "ESPAÑOL 1080P",
-		"image": "https://images.weserv.nl/?url=https://server-local-bucket166-mad44.ultracdn.org/imagenes//peliculas/Beekeeper-El-protector--2024---BluRay-1080p.jpg",
-		"url": "acestream://00c5ecaeff6fa00fc6c07bfebd2e7e283160deaf"
-		},
-		{
-		"name": "Godzilla y Kong: El nuevo imperio",
-		"info": "ESPAÑOL 1080P",
-		"image": "https://images.weserv.nl/?url=https://server-local-bucket166-mad44.ultracdn.org/imagenes//peliculas/godzilla-y-kong-el-nuevo-imperio--2024---BluRay-1080p_20_1029.jpg",
-		"url": "acestream://56eade83960069c84f1c9538954ce1bb4d9248f9"
-		},
-		{
-		"name": "Cazafantasmas: Imperio helado",
-		"info": "ESPAÑOL 1080P",
-		"image": "https://images.weserv.nl/?url=https://server-local-bucket166-mad44.ultracdn.org/imagenes//peliculas/cazafantasmas-imperio-helado--2024---BluRay-1080p_20_1029.jpg",
-		"url": "acestream://102ae500d80e70f668b3da7408ddc8c5ab560bd4"
-		},
-		{
-		"name": "MADAME WEB",
-		"info": "ESPAÑOL 1080P",
-		"image": "https://pics.filmaffinity.com/Madame_Web-759178425-large.jpg",
-		"url": "acestream://71750adc8e227fc50e7c511068606390f406bfb5"
-		},
-		{
-		"name": "AQUAMAN Y EL REINO PERDIDO",
-		"info": "ESPAÑOL 1080P",
-		"image": "https://pics.filmaffinity.com/Aquaman_y_el_reino_perdido-274178849-large.jpg",
-		"url": "acestream://7c66d388c098f60b2314b1cc8e6ccbdb5d134d2e"
-		},
-		{
-		"name": "SALTBURN",
-		"info": "ESPAÑOL 1080P",
-		"image": "https://images.weserv.nl/?url=https://server-local-storage556-mad51.ultracdn.org/imagenes//peliculas/Saltburn--2023---BluRay-1080p.jpg",
-		"url": "acestream://782ddfa17667e3dfd379a5b516a391ad34c1fadd"
-		},
-		{
-		"name": "WONKA",
-		"info": "ESPAÑOL 1080P",
-		"image": "https://www.ecartelera.com/carteles/17300/17357/004_m.jpg",
-		"url": "acestream://156e3e24b502596239c9a03fd6a2a484e2f4d892"
-		},
-		{
-		"name": "HYPNOTIC",
-		"info": "ESPAÑOL 720P",
-		"image": "https://pics.filmaffinity.com/Hypnotic-599632335-large.jpg",
-		"url": "acestream://21caf7b1c7a8223731c4a018d2b711ce388e2a3c"
-		},
-		{
-		"name": "LOS MERCENARIOS 4",
-		"info": "ESPAÑOL 720P",
-		"image": "https://hips.hearstapps.com/hmg-prod/images/mercenarios-4-poster-6511ad83ba621.jpg",
-		"url": "acestream://c3290c159728fef8ef17a81e7d3fa655791bb4a3"
-		},
-		{
-		"name": "LA SOCIEDAD DE LA NIEVE",
-		"info": "ESPAÑOL 1080P",
-		"image": "https://www.bizcochito.es/Films/Poster/tt16277242.webp",
-		"url": "acestream://9efac12d7405d676fadcce7cde842b27dd339fbe"
-		},
-		{
-		"name": "THE MARVELS",
-		"info": "ESPAÑOL 1080P",
-		"image": "https://www.mubis.es/media/users/12828/321885/nuevo-poster-de-the-marvels-original.jpg",
-		"url": "acestream://b617628df78aeed530d684be28d2206176b85501"
-		},
-		{
-		"name": "THE MARVELS",
-		"info": "ESPAÑOL 720P",
-		"image": "https://www.mubis.es/media/users/12828/321885/nuevo-poster-de-the-marvels-original.jpg",
-		"url": "acestream://aaecdcb2a8a82cc34ca59e5455629c766f9be32e"
-		},
-		{
-		"name": "NAPOLEON",
-		"info": "ESPAÑOL 1080P",
-		"image": "https://images.weserv.nl/?url=https://server-local-storage556-mad51.ultracdn.org/imagenes//peliculas/Napoleon--2023---BluRay-1080p.jpg",
-		"url": "acestream://9a6a0bf17dd15aea190f509599dd92bf4cd68ddd"
-		},
-		{
-		"name": "SIN MALOS ROLLOS",
-		"info": "ESPAÑOL 1080P",
-		"image": "https://pics.filmaffinity.com/Sin_malos_rollos-195103882-large.jpg",
-		"url": "acestream://99861b097e1cc5c6da746efbe2309576ba3bb360"
-		},
-		{
-		"name": "CAMPEONEX",
-		"info": "ESPAÑOL 1080P",
-		"image": "https://pics.filmaffinity.com/Campeonex-966482082-large.jpg",
-		"url": "acestream://d4dd82fd5dfea34db557dd5965da68dd9303bcf0"
-		},
-		{
-		"name": "DEJAR EL MUNDO ATRAS",
-		"info": "ESPAÑOL 1080P",
-		"image": "https://areajugones.sport.es/wp-content/uploads/2023/12/dejar-el-mundo-atras.jpg",
-		"url": "acestream://dba2dbe90fad1a30e029c4c978b7891ea8f01df2"
-		},
-		{
-		"name": "LOS ASESINOS DE LA LUNA",
-		"info": "ESPAÑOL 1080P",
-		"image": "https://static.cinepolis.com/resources/mx/movies/posters/414x603/43707-238454-20231018071357.jpg",
-		"url": "acestream://8b1df56b8d66300de36c4ce86be87ebc7ea8bfa8"
-		},
-		{
-		"name": "LOS ASESINOS DE LA LUNA",
-		"info": "ESPAÑOL 720P",
-		"image": "https://static.cinepolis.com/resources/mx/movies/posters/414x603/43707-238454-20231018071357.jpg",
-		"url": "acestream://3559850ee56e319e6624065d3b9fe866720c6bf7"
-		},
-		{
-		"name": "SIETE HERMANAS",
-		"info": "ESPAÑOL 1080P",
-		"image": "https://images.weserv.nl/?url=https://server-local-storage556-mad51.ultracdn.org/imagenes//peliculas/siete-hermanas--bluray-microhd.jpg",
-		"url": "acestream://04cbb695e1b4cb364ec6f687411eb3d35d996a13"
-		},
-		{
-		"name": "THE CREATOR",
-		"info": "ESPAÑOL 1080P",
-		"image": "https://pics.filmaffinity.com/the_creator-470808400-mmed.jpg",
-		"url": "acestream://6157e8f2e59ca5be675b01b29edd57f86a16d5b1"
-		},
-		{
-		"name": "OPPENHEIMER",
-		"info": "ESPAÑOL 1080P",
-		"image": "https://images.weserv.nl/?url=https://server-local-storage556-mad51.ultracdn.org/imagenes//peliculas/oppenheimer-828933592-mmed.jpg",
-		"url": "acestream://088234cdaf8864e2016ca0eb2ba5c16078aead96"
-		},
-		{
-		"name": "Misión imposible: sentencia mortal - Parte 1",
-		"info": "ESPAÑOL 1080P",
-		"image": "https://pics.filmaffinity.com/Misiaon_imposible_Sentencia_mortal_Parte_1-902615661-large.jpg",
-		"url": "acestream://b1dacb445ce8c69f4d474029b70f680155b67c6b"
-		},
-		{
-		"name": "Misión imposible: sentencia mortal - Parte 1",
-		"info": "ESPAÑOL 720p",
-		"image": "https://pics.filmaffinity.com/Misiaon_imposible_Sentencia_mortal_Parte_1-902615661-large.jpg",
-		"url": "acestream://8aaf5b16bb4ef3675dc4258e2598282a74914d51"
-		},
-		{
-		"name": "Awareness",
-		"info": "ESPAÑOL 1080P",
-		"image": "https://pics.filmaffinity.com/awareness-228878296-mmed.jpg",
-		"url": "acestream://ec78bc5bea8badfd71d6028d80d707388ccb7983"
-		},
-		{
-		"name": "Upon Entry (La llegada)",
-		"info": "ESPAÑOL 1080P",
-		"image": "https://pics.filmaffinity.com/upon_entry-360819012-mmed.jpg",
-		"url": "acestream://bf11a852527c5a3bfd87516dac1806dcdbc58a08"
-		},
-		{
-		"name": "THE EQUALIZER 1",
-		"info": "ESPAÑOL 1080P",
-		"image": "https://images.weserv.nl/?url=https://server-local-storage556-mad51.ultracdn.org/imagenes//peliculas/The%20Equalizerb.jpg",
-		"url": "acestream://05743eb361feb7072c94aee52c8d7817adff7028"
-		},
-		{
-		"name": "THE EQUALIZER 2",
-		"info": "ESPAÑOL 1080P",
-		"image": "https://images.weserv.nl/?url=https://server-local-storage556-mad51.ultracdn.org/imagenes//peliculas/The%20Equalizer%202b.jpg",
-		"url": "acestream://b1ba5188f0abdc79657f1aa2534b82236c242c8b"
-		},
-		{
-		"name": "THE EQUALIZER 3",
-		"info": "ESPAÑOL 1080P",
-		"image": "https://images.weserv.nl/?url=https://server-local-storage556-mad51.ultracdn.org/imagenes//peliculas/The-Equalizer-3--2023---BluRay-1080p.jpg",
-		"url": "acestream://96e6f8a44e582fcdc74b6f6febfab3ceb50a83ec"
-		},
-		{
-		"name": "SUPER MARIO BROS",
-		"info": "ESPAÑOL 1080P",
-		"image": "https://images.weserv.nl/?url=https://server-local-storage556-mad51.ultracdn.org/imagenes//peliculas/The-Super-Mario-Bros-Movie--2023---BluRay-1080p.jpg",
-		"url": "acestream://ae63320ed45dd9e6f8c4ca546f5e8af475b8b4b8"
-		},
-		{
-		"name": "GRAN TURISMO",
-		"info": "ESPAÑOL 1080P",
-		"image": "https://pics.filmaffinity.com/Gran_Turismo-703890981-large.jpg",
-		"url": "acestream://27de40c799b4aaa883b5860258dd0a255b6bc96f"
-		},
-		{
-		"name": "BLUE BEETLE",
-		"info": "ESPAÑOL 1080P",
-		"image": "https://m.media-amazon.com/images/M/MV5BMmY1ODUzZGItNDllOS00MDBhLTg4NmUtYjU4YjUxMGNlYmMwXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_FMjpg_UX1000_.jpg",
-		"url": "acestream://7c60be8f6c8800ecfcb04f5321eecd1a12a6434b"
-		},
-		{
-		"name": "EL PEOR VECINO DEL MUNDO",
-		"info": "ESPAÑOL 1080P",
-		"image": "https://pics.filmaffinity.com/El_peor_vecino_del_mundo-127395772-large.jpg",
-		"url": "acestream://bfeb28cb9dbef6d48dbd88827496c67f337c936d"
-		},
-		{
-		"name": "LLAMAN A LA PUERTA",
-		"info": "ESPAÑOL 1080P",
-		"image": "https://pics.filmaffinity.com/Llaman_a_la_puerta-362107236-large.jpg",
-		"url": "acestream://31443eb357d49ed0d8603eb5145ed5c06746c3ee"
-		},
-		{
-		"name": "INSIDIOUS: LA PUERTA ROJA",
-		"info": "ESPAÑOL 1080P",
-		"image": "https://pics.filmaffinity.com/Insidious_La_puerta_roja-842155229-large.jpg",
-		"url": "acestream://4e8dbe9c4ea9e7fd302726444a8b6f24948e9bde"
-		},
-		{
-		"name": "FAST X",
-		"info": "ESPAÑOL 1080p",
-		"image": "https://pics.filmaffinity.com/Fast_Furious_X-556821969-large.jpg",
-		"url": "acestream://9df722ed6f3fe0760981cfb0f027e08bd192c761"
-		},
-		{
-		"name": "BARBIE",
-		"info": "ESPAÑOL 1080P",
-		"image": "https://es.web.img2.acsta.net/pictures/23/07/20/11/29/5479684.jpg",
-		"url": "acestream://3a9beec0ff124ea11d77009950835eb7945dd819"
-		},
-		{
-		"name": "Flash",
-		"info": "ESPAÑOL 1080P",
-		"image": "https://pics.filmaffinity.com/Flash-205686824-large.jpg",
-		"url": "acestream://96f2e4446b4f840058ed84647c5073245004ef7e"
-		},
-		{
-		"name": "Transformers: El despertar de las bestias",
-		"info": "ESPAÑOL 1080P",
-		"image": "https://images.weserv.nl/?url=https://server-local-storage556-mad51.ultracdn.org/imagenes//peliculas/Transformers-El-despertar-de-las-bestias--BluRay-1080p.jpg",
-		"url": "acestream://815d8a603e3ceec4177a7f3d33feeae4329d7f97"
-		},
-		{
-		"name": "La sirenita",
-		"info":"ESPAÑOL 1080P",
-		"image": "https://images.weserv.nl/?url=https://server-local-storage556-mad51.ultracdn.org/imagenes//peliculas/La-sirenita--2023---BluRay-1080p.jpg",
-		"url": "acestream://2fde831addc43320a10ac234020a1404d7746124"
-		},
-		{
-		"name": "Agente Stone",
-		"info":"ESPAÑOL 720P",
-		"image": "https://images.weserv.nl/?url=https://server-local-storage556-mad51.ultracdn.org/imagenes//peliculas/Agente-Stone--2023---BluRay-1080p.jpg",
-		"url": "acestream://7ce73b89de1f6016facc60cfbc9d5b52c68934ee"
-		},
-		{
-		"name": "Shazam La furia de los dioses",
-		"info": "ESPAÑOL 1080P",
-		"image": "https://pics.filmaffinity.com/aShazam_La_furia_de_los_dioses-942384944-large.jpg",
-		"url": "acestream://5d54abf610f589a0a900f234f1371dfe3299b7bf"
-		},
-		{
-		"name": "Spiderman: No way home",
-		"info": "ESPAÑOL 1440P (TARDA EN CARGAR)",
-		"image": "https://pics.filmaffinity.com/Spider_Man_No_Way_Home-642739124-large.jpg",
-		"url": "acestream://6dff7ffba4e22e6787f6e3c91f9b1781047c688b"
-		},
-		{
-		"name": "Spider-Man: Cruzando el Multiverso",
-		"info": "ESPAÑOL 1080p",
-		"image": "https://images.weserv.nl/?url=https://server-local-storage556-mad51.ultracdn.org/imagenes//peliculas/Spider-Man-Cruzando-el-Multiverso--2023---BluRay-1080p.jpg",
-		"url": "acestream://bea09e9c4de96b3a4ec5fe65a0ab1a8faf068b11"
-		},
-		{
-		"name": "FAST X",
-		"info": "ESPAÑOL 1080p",
-		"image": "https://pics.filmaffinity.com/Fast_Furious_X-556821969-large.jpg",
-		"url": "acestream://9df722ed6f3fe0760981cfb0f027e08bd192c761"
-		},
-		{
-		"name": "NOPE",
-		"info": "ESPAÑOL 1080p",
-		"image": "https://pics.filmaffinity.com/Nop-999319780-large.jpg",
-		"url": "acestream://12caafadea3997a4ea3418a05035fbf6c20e37b8"
-		},
-		{
-		"name": "Megalodon 2",
-		"info": "ESPAÑOL 1080P",
-		"image": "https://es.web.img3.acsta.net/pictures/23/05/09/10/42/0347977.jpg",
-		"url": "acestream://511f19cb8699ce7d26a8ae1ea79ffe12fae7103e"
-		},
-		{
-		"name": "Her.",
-		"info": "ESPAÑOL 1080P",
-		"image": "https://pics.filmaffinity.com/Her-716403893-large.jpg",
-		"url": "acestream://71e61adf11c1eed462551f2868c2c88675eafe39"
-		},
-		{
-		"name": "Ha nacido una estrella",
-		"info": "ESPAÑOL 1080P",
-		"image": "https://images.weserv.nl/?url=https://server-local-storage556-mad51.ultracdn.org/imagenes//peliculas/Ha%20nacido%20una%20estrellabb.jpg",
-		"url": "acestream://68ded72954e65f3b61c9e15726586cadc49d1416"
-		},
-		{
-		"name": "La ballena",
-		"info": "ESPAÑOL 1080P",
-		"image": "https://images.weserv.nl/?url=https://server-local-storage556-mad51.ultracdn.org/imagenes//peliculas/La-ballena--The-Whale---2022---BluRay-1080p.jpg",
-		"url": "acestream://a6b9572a5d12f35af5509b603d045ecd6cc9337d"
-		},
-		{
-		"name": "John Wick 4",
-		"info": "ESPAÑOL 1080P",
-		"image": "https://pics.filmaffinity.com/John_Wick_4-101402041-large.jpg",
-		"url": "acestream://9d1c49409ab68f4a6766541120385890865510c7"
-		}
-
-		]
-	}
-{
-	"name": "CHUKY",
-	"image": "https://i.imgur.com/JTAr9BI.gif",
-	"imageScale": "",
-	"info":"",
-	"stations":
-
-
-		[
-
-		{
-		"name": "ENTRA",
-		"info": "",
-		"image": "https://cdn-icons-png.flaticon.com/512/1057/1057190.png",
-		"url": "https://raw.githubusercontent.com/chukyvaliente/chukycine/main/chukycine"
-		}
-		]
-	}
-	]
-
-	]
-
-
 	
 
+		{
+		"name": "CHUKY",
+		"image": "https://i.imgur.com/JTAr9BI.gif",
+		"imageScale": "",
+		"info":"",
+		"stations":
+	
+	
+				[
+		
+				{
+				"name": "ENTRA",
+				"info": "",
+				"image": "https://cdn-icons-png.flaticon.com/512/1057/1057190.png",
+				"url": "https://raw.githubusercontent.com/chukyvaliente/chukycine/main/chukycine"
+				}
+				]
+		}
+	]
 
+	
 
 
 }
