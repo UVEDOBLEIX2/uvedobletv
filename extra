@@ -20,8 +20,8 @@
         },
         {
          "name": "PLEX TV",
-         "image": "https://i.imgur.com/y1IFs0W.gif",
-         "url": "https://i.imgur.com/YAaMwxN.png",
+         "image": "https://i.imgur.com/YAaMwxN.png",
+         "url": "https://i.mjh.nz/Plex/all.m3u8",
          "info":"",
          "import": false
         },
