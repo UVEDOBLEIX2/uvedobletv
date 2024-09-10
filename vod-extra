@@ -10,6 +10,39 @@
 	[
 
 	{
+	"name": "COMO CAZAR A UN MONSTRUO",
+	"image": "https://hips.hearstapps.com/hmg-prod/images/como-cazar-monstruo-poster-66ded05870ef0.jpg?resize=980:*",
+	"imageScale": "",
+	"info":"3 EPISODIOS",
+	"stations":
+		[
+
+
+		{
+		"name": "Capitulo 1",
+		"info": "",
+		"image": "https://hips.hearstapps.com/hmg-prod/images/como-cazar-monstruo-poster-66ded05870ef0.jpg?resize=980:*",
+		"url": "acestream://c2e21d4b21245d93b3d9b7c54305c4009ee01c9a"
+		},
+		{
+		"name": "Capitulo 2",
+		"info": "",
+		"image": "https://hips.hearstapps.com/hmg-prod/images/como-cazar-monstruo-poster-66ded05870ef0.jpg?resize=980:*",
+		"url": "acestream://3608e3c1be1236a3631a03e208d97bd2fa9f58bf"
+		},
+
+		{
+		"name": "Capitulo 3",
+		"info": "",
+		"image": "https://hips.hearstapps.com/hmg-prod/images/como-cazar-monstruo-poster-66ded05870ef0.jpg?resize=980:*",
+		"url": "acestream://9f3beed7eabd2dee134268b5b3b3bb68e80b4091"
+		}
+
+
+
+		]
+	},
+	{
 	"name": "Batalla de restaurantes",
 	"image": "https://www.huleymantel.com/uploads/s1/47/27/28/foto-apertura-hule-y-mantel-laia-2024-01-29t132922-436.webp",
 	"imageScale": "",
@@ -29,14 +62,7 @@
 		"info": "TEMPORADA 1",
 		"image": "https://www.huleymantel.com/uploads/s1/47/27/28/foto-apertura-hule-y-mantel-laia-2024-01-29t132922-436.webp",
 		"url": "acestream://1f3eac33295d1ef9573ee845189fd5b454cb7c78"
-		},
-
-		{
-		"name": "Capitulo 3",
-		"info": "NO DISPONIBLE AUN",
-		"image": "https://www.huleymantel.com/uploads/s1/47/27/28/foto-apertura-hule-y-mantel-laia-2024-01-29t132922-436.webp",
-		"url": ""
-		},
+		}
 
 
 
