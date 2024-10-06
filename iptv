@@ -31,6 +31,13 @@
          "url": "http://bankt.top:8080/get.php?username=281708370187002&password=eaba847acce3&type=m3u_plus",
          "info":"",
          "import": false
+        },
+        {
+         "name": "IPTV NFL",
+         "image": "https://i.imgur.com/y1IFs0W.gif",
+         "url": "https://af1c1onados.vercel.app/09.2.Deportes.NFL.StREamS.w3u",
+         "info":"",
+         "import": false
         }
 
 
