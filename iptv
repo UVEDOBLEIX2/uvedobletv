@@ -14,22 +14,29 @@
         {
          "name": "IPTV 1",
          "image": "https://i.imgur.com/y1IFs0W.gif",
-         "url": "http://afj6a.nicsew.xyz:80/get.php?username=Mario00CRP&password=Mnaji3laki&type=m3u_plus&output=ts",
+         "url": "http://51.81.67.130:8080/get.php?username=Portillo23&password=ZDXMB&type=m3u_plus&output=m3u8",
          "info":"",
          "import": false
         },
         {
          "name": "IPTV 2",
          "image": "https://i.imgur.com/y1IFs0W.gif",
-         "url": "http://tv.soccerplus.link:8000/get.php?username=U0Si1f8DjK&password=Oi6SK9YSoD&type=m3u_plus",
+         "url": "http://f1.millenium-ott.com:25443/get.php?username=V19VkY5Z2NsST&password=9fgOAfPTuN&type=m3u_plus",
          "info":"",
          "import": false
         },
         {
          "name": "IPTV 3",
          "image": "https://i.imgur.com/y1IFs0W.gif",
-         "url": "http://bankt.top:8080/get.php?username=281708370187002&password=eaba847acce3&type=m3u_plus",
+         "url": "http://51.81.67.130:8080/get.php?username=skyperu2021&password=tqZnuwEDTaeT&type=m3u_plus&output=m3u8",
          "info":"",
+         "import": false
+        },
+        {
+         "name": "IPTV 4",
+         "image": "https://i.imgur.com/y1IFs0W.gif",
+         "url": "",
+         "info":"inactivo",
          "import": false
         },
         {
