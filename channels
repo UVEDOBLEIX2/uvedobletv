@@ -11,6 +11,14 @@
 
 
 
+        {
+        "name": "EVENTOS DEL DIA",
+        "info": "[ACESTREAM]",
+        "online":"true",
+        "image": "https://i.postimg.cc/zGtZL9SY/Ace-Eventos.png",
+        "url": "https://eventos-diarios.vercel.app/",
+        "embed": "true"
+        },
 
 	{
 	"name": "",
