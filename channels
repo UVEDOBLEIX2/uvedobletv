@@ -551,7 +551,30 @@
 	"info":"",
 	"stations":
 		[
-
+			{
+			"name": "PPV 1",
+			"info":"SOLO EVENTOS",
+			"image": "https://d3ciwvs59ifrt8.cloudfront.net/f2aac1cc-c883-44d9-b33d-cd7e36b39d24/37ffde5b-421b-441b-b803-be7cb9df8d31.png",
+			"url": "acestream://600222a4f98df80a2c0df2d60cb5ff3df9620710"
+			},
+			{
+			"name": "PPV 2",
+			"info":"SOLO EVENTOS",
+			"image": "https://d3ciwvs59ifrt8.cloudfront.net/f2aac1cc-c883-44d9-b33d-cd7e36b39d24/37ffde5b-421b-441b-b803-be7cb9df8d31.png",
+			"url": "acestream://d6cdd724a97fcf851e7ef641c28d6beb8663496e"
+			},
+			{
+			"name": "PPV 3",
+			"info":"SOLO EVENTOS",
+			"image": "https://d3ciwvs59ifrt8.cloudfront.net/f2aac1cc-c883-44d9-b33d-cd7e36b39d24/37ffde5b-421b-441b-b803-be7cb9df8d31.png",
+			"url": "acestream://162942adc047d0f78eac056effbe5bbec54a5e51"
+			},
+			{
+			"name": "PPV 4",
+			"info":"SOLO EVENTOS",
+			"image": "https://d3ciwvs59ifrt8.cloudfront.net/f2aac1cc-c883-44d9-b33d-cd7e36b39d24/37ffde5b-421b-441b-b803-be7cb9df8d31.png",
+			"url": "acestream://e454681a152a86da504e63694f17f90d0586867d"
+			},
 			{
 			"name": "EuroSport 1 [1080]",
 			"info":"b952",
