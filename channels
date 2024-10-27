@@ -61,6 +61,18 @@
 			"info":"OPCION 4",
 			"image": "https://pbs.twimg.com/profile_images/1545704109545848834/siqC9l3g_400x400.jpg",
 			"url": "acestream://968627d24eec1c16b51d88e4a4a6c02211e3346e"
+			},
+			{
+			"name": "DAZN F1 [refuerzo 1]",
+			"info":"",
+			"image": "https://pbs.twimg.com/profile_images/1545704109545848834/siqC9l3g_400x400.jpg",
+			"url": "http://home-playtv.com:8080/live/Portillo23/ZDXMB/531500.m3u8"
+			},
+			{
+			"name": "DAZN F1 [refuerzo 2]",
+			"info":"",
+			"image": "https://pbs.twimg.com/profile_images/1545704109545848834/siqC9l3g_400x400.jpg",
+			"url": "http://home-playtv.com:8080/live/Portillo23/ZDXMB/531500.m3u8"
 			}
 		]
 	},
