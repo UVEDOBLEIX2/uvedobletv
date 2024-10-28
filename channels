@@ -21,6 +21,12 @@
 		[
 
 			{
+			"name": "GALA BALON DE ORO",
+			"info": "OPCION 1",
+			"image": "",
+			"url": "acestream://c1ee6e1e0ef5928d8261f855c417de21794f437d"
+			},
+			{
 		        "name": "EVENTOS DEL DIA",
 		        "info": "[ACESTREAM]",
 		        "online":"true",
