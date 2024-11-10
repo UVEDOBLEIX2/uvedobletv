@@ -20,12 +20,7 @@
 	"stations":
 		[
 
-			{
-			"name": "GALA BALON DE ORO",
-			"info": "OPCION 1",
-			"image": "",
-			"url": "acestream://c1ee6e1e0ef5928d8261f855c417de21794f437d"
-			},
+
 			{
 		        "name": "EVENTOS DEL DIA",
 		        "info": "[ACESTREAM]",
@@ -437,7 +432,7 @@
 
 
 	{
-	"name": "",
+	"name": "𝙈𝙊𝙑𝙄𝙎𝙏𝘼𝙍 𝘿𝙀𝙋𝙊𝙍𝙏𝙀𝙎",
 	"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Deportes_por_Movistar_Plus%2B_2023_Logo.svg/640px-Deportes_por_Movistar_Plus%2B_2023_Logo.svg.png",
 	"imageScale": "",
 	"info":"",
@@ -463,9 +458,9 @@
 			},
 			{
 			"name": "M Deportes 3 [1080]",
-			"info": "2a9a",
-			"image": "https://i.postimg.cc/DynjPV8K/Deportes-por-Movistar-3-2022-logo.png",
-			"url": "acestream://aee0a595220e0f1c2fee725fd1dbc602d7152a9a"
+			"info": "ACTUALIZADO 2024",
+			"image": "https://static.wikia.nocookie.net/logopedia/images/4/40/Deportes_3_por_Movistar_Plus%2B_2023.png/revision/latest?cb=20230721201007",
+			"url": "acestream://571bff4d12b1791eb99dbf20bec38e630693a6a3"
 			},
 			{
 			"name": "M Deportes 4 [1080]",
