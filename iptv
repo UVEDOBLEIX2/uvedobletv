@@ -40,6 +40,20 @@
          "import": false
         },
         {
+         "name": "IPTV 5",
+         "image": "https://i.imgur.com/y1IFs0W.gif",
+         "url": "http://vipizfq.top:8080/get.php?username=VIP01255172701584299&password=070e9b8b18ee&type=m3u",
+         "info":"",
+         "import": false
+        },
+        {
+         "name": "IPTV 6",
+         "image": "https://i.imgur.com/y1IFs0W.gif",
+         "url": "http://vipizfq.top:8080/get.php?username=VIP01211704554714003&password=61704554714511&type=m3u",
+         "info":"",
+         "import": false
+        },
+        {
          "name": "IPTV NFL",
          "image": "https://i.imgur.com/y1IFs0W.gif",
          "url": "https://af1c1onados.vercel.app/09.2.Deportes.NFL.StREamS.w3u",
