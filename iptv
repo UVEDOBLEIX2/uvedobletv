@@ -12,6 +12,13 @@
 	[
 
         {
+         "name": "DEPORTES IPTV",
+         "image": "https://i.imgur.com/y1IFs0W.gif",
+         "url": "https://af1c1onados.vercel.app/Zona.Deportiva.w3u",
+         "info":"",
+         "import": false
+        },
+        {
          "name": "IPTV 1",
          "image": "https://i.imgur.com/y1IFs0W.gif",
          "url": "http://vipizfq.top:8080/get.php?username=VIP01901699195539001&password=91699195539402&type=m3u",
