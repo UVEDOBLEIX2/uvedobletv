@@ -434,6 +434,45 @@
 		]
 	},
 
+	{
+	"name": "pruebasss",
+	"image": "https://static.wikia.nocookie.net/supermarioglitchy4/images/b/b6/8ED4E41C-F0F1-49FA-9AC7-08FC9EE5F755.png/revision/latest/thumbnail/width/360/height/450?cb=20200209125017",
+	"imageScale": "",
+	"info": "",
+	"stations":
+		[
+			{
+			"name": "CANAL pruebas 1",
+			"info": "movistar copa del rey 1",
+			"image": "https://cdn.worldvectorlogo.com/logos/test.svg",
+			"url": "acestream://33fcd9a17cb791374376f1b77f7247371167245d"
+			},
+			{
+			"name": "CANAL pruebas 2",
+			"info": "movistar tv bar",
+			"image": "https://static.wikia.nocookie.net/logopedia/images/1/18/DAZN_1_2024.svg/revision/latest?cb=20240713213358",
+			"url": "acestream://704d3d43e6aa360eb552501eb020793cab93175d"
+			},
+			{
+			"name": "CANAL pruebas 3",
+			"info": "movistar liga",
+			"image": "https://cdn.worldvectorlogo.com/logos/test.svg",
+			"url": "acestream://cc6823f25edb580a5b6b16f9afba0a73554e045f"
+			},
+			{
+			"name": "CANAL pruebas 4",
+			"info": "movistar copa del rey 2",
+			"image": "https://cdn.worldvectorlogo.com/logos/test.svg",
+			"url": "acestream://2542a8b98de5dde269f1f75a0314c97046dd2ecf"
+			},
+			{
+			"name": "CANAL pruebas 5",
+			"info": "movistar accion",
+			"image": "https://cdn.worldvectorlogo.com/logos/test.svg",
+			"url": "acestream://4e62333d37ab424ed0cf30d4adbd293aff729443"
+			}
+		]
+	},
 
 
 
