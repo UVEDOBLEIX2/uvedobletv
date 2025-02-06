@@ -12,9 +12,16 @@
 	[
 
         {
-         "name": "DEPORTES IPTV",
+         "name": "IPTV DEPORTES",
          "image": "https://i.imgur.com/y1IFs0W.gif",
          "url": "https://af1c1onados.vercel.app/Zona.Deportiva.w3u",
+         "info":"",
+         "import": false
+        },
+        {
+         "name": "IPTV UVE",
+         "image": "https://i.imgur.com/y1IFs0W.gif",
+         "url": "https://raw.githubusercontent.com/UVEDOBLEIX2/uvedobletv/refs/heads/main/iptvPRO-UVE",
          "info":"",
          "import": false
         },
