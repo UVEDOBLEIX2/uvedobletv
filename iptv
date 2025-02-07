@@ -19,13 +19,6 @@
          "import": false
         },
         {
-         "name": "IPTV UVE",
-         "image": "https://i.imgur.com/y1IFs0W.gif",
-         "url": "https://raw.githubusercontent.com/UVEDOBLEIX2/uvedobletv/refs/heads/main/iptvPRO-UVE",
-         "info":"",
-         "import": false
-        },
-        {
          "name": "IPTV 1",
          "image": "https://i.imgur.com/y1IFs0W.gif",
          "url": "http://mbsderlo.site:2082/get.php?username=admironold&password=7NeFFyN44PSYold&type=m3u_plus",
