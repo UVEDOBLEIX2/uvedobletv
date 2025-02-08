@@ -13,8 +13,15 @@
 
         {
          "name": "TDT CHANNELS",
-         "image": "https://i.imgur.com/YAaMwxN.png",
-         "url": "https://www.tdtchannels.com/lists/tvradio.w3u",
+         "image": "https://i.postimg.cc/W317y4K7/TDT.png",
+         "url": "https://pastebin.com/UWXsWLF9",
+         "info":"",
+         "import": false
+        },
+        {
+         "name": "TV SHOWS",
+         "image": "https://i.postimg.cc/L8V8H62q/tv-show-new.png",
+         "url": "https://af1c1onados.vercel.app/05.Menu.Tv.ShOw.w3u",
          "info":"",
          "import": false
         },
