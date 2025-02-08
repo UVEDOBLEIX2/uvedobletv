@@ -11,7 +11,7 @@
 
 
         {
-         "name": "Canales de Elcano (legado)",
+         "name": "Lista de Elcano (legado)",
          "image": "https://www.shutterstock.com/shutterstock/videos/1015182523/thumb/10.jpg?ip=x480",
          "url": "https://raw.githubusercontent.com/UVEDOBLEIX2/uvedobletv/refs/heads/main/channels",
          "info":"",
@@ -19,7 +19,7 @@
         },
 
         {
-         "name": "Canales de Tronoss",
+         "name": "Lista de Tronoss",
          "image": "https://www.shutterstock.com/shutterstock/videos/1015182523/thumb/10.jpg?ip=x480",
          "url": "https://raw.githubusercontent.com/UVEDOBLEIX2/uvedobletv/refs/heads/main/channels2",
          "info":"",
@@ -27,7 +27,7 @@
         },
 
         {
-         "name": "Canales de ㄩᐯ乇²",
+         "name": "Lista de ㄩᐯ乇²",
          "image": "https://www.shutterstock.com/shutterstock/videos/1015182523/thumb/10.jpg?ip=x480",
          "url": "https://raw.githubusercontent.com/UVEDOBLEIX2/uvedobletv/refs/heads/main/channels3",
          "info":"",
@@ -35,9 +35,17 @@
         },
 
         {
-         "name": "Canales de Af1cionados",
+         "name": "Lista de Af1cionados",
          "image": "https://www.shutterstock.com/shutterstock/videos/1015182523/thumb/10.jpg?ip=x480",
          "url": "https://af1c1onados.vercel.app/Zona.Deportiva.w3u",
+         "info":"",
+         "import": false
+        },
+
+        {
+         "name": "Lista de Prioritarios2",
+         "image": "https://www.shutterstock.com/shutterstock/videos/1015182523/thumb/10.jpg?ip=x480",
+         "url": "https://www.dl.dropboxusercontent.com/scl/fi/jr8n6zz1w9nv21zi56fcn/Prioritarios2.txt?rlkey=p2oumhcwu738n9h9hmuzw3rt5",
          "info":"",
          "import": false
         },
@@ -48,7 +56,8 @@
          "url": "https://proxy.zeronet.dev/18cZ4ehTarf34TCxntYDx9T2NHXiBvsVie/",
          "info":"",
          "import": false
-        },
+	 "embed": true
+        }
 
 	]
 }
