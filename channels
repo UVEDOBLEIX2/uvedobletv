@@ -1,6 +1,6 @@
 {
     "name": "ㄩᐯ乇²",
-    "author": "ㄩᐯ乇² | NECESARIO ACESTREAM",
+    "author": "",
     "url": "",
     "image": "https://i.imgur.com/eIJw2hn.gif",
     "telegram": "",
@@ -10,14 +10,39 @@
 	[
 
 
-
         {
-         "name": "PRUEBA",
+         "name": "Canales de Elcano (cierre proximo)",
          "image": "",
-         "url": "https://raw.githubusercontent.com/UVEDOBLEIX2/uvedobletv/refs/heads/main/iptvPRO-UVE",
+         "url": "https://raw.githubusercontent.com/UVEDOBLEIX2/uvedobletv/refs/heads/main/channels4",
          "info":"",
          "import": false
         },
+
+        {
+         "name": "Canales de Tronoss",
+         "image": "",
+         "url": "https://raw.githubusercontent.com/UVEDOBLEIX2/uvedobletv/refs/heads/main/channels2",
+         "info":"",
+         "import": false
+        },
+
+        {
+         "name": "Canales de ㄩᐯ乇²",
+         "image": "",
+         "url": "https://raw.githubusercontent.com/UVEDOBLEIX2/uvedobletv/refs/heads/main/channels3",
+         "info":"",
+         "import": false
+        },
+
+        {
+         "name": "Canales de Af1cionados",
+         "image": "",
+         "url": "https://af1c1onados.vercel.app/Zona.Deportiva.w3u",
+         "info":"",
+         "import": false
+        },
+
+
 
 
 	{
