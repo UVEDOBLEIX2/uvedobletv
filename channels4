@@ -9,6 +9,13 @@
 
 	[
 
+        {
+         "name": "SUPERBOWL LIX",
+         "image": "https://upload.wikimedia.org/wikipedia/en/thumb/8/82/Super_Bowl_LIX_Logo.svg/1200px-Super_Bowl_LIX_Logo.svg.png",
+         "url": "https://raw.githubusercontent.com/UVEDOBLEIX2/uvedobletv/refs/heads/main/channels5",
+         "info":"",
+         "import": false
+        },
 
         {
          "name": "Lista de Elcano (legado)",
@@ -37,7 +44,7 @@
         {
          "name": "Lista de Af1cionados",
          "image": "https://www.shutterstock.com/shutterstock/videos/1015182523/thumb/10.jpg?ip=x480",
-         "url": "https://af1c1onados.vercel.app/Zona.Deportiva.w3u",
+         "url": "https://af1c1onados.vercel.app/09.0.Menu.ZoNa.DepOrTiVa.w3u",
          "info":"",
          "import": false
         },
