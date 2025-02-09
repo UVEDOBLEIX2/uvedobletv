@@ -34,7 +34,7 @@
         },
 
         {
-         "name": "Lista de ㄩᐯ乇²",
+         "name": "Lista de ㄩᐯ乇",
          "image": "https://www.shutterstock.com/shutterstock/videos/1015182523/thumb/10.jpg?ip=x480",
          "url": "https://raw.githubusercontent.com/UVEDOBLEIX2/uvedobletv/refs/heads/main/channels3",
          "info":"",
@@ -55,18 +55,7 @@
          "url": "https://www.dl.dropboxusercontent.com/scl/fi/jr8n6zz1w9nv21zi56fcn/Prioritarios2.txt?rlkey=p2oumhcwu738n9h9hmuzw3rt5",
          "info":"",
          "import": false
-        },
-
-        {
-         "name": "AGENDA DEPORTIVA (Solo movil)",
-         "image": "https://estilonoticias.com.ar/images/noticias/244745_1728170058.jpeg",
-         "url": "https://proxy.zeronet.dev/18cZ4ehTarf34TCxntYDx9T2NHXiBvsVie/",
-	 "embed": true
-        },
-
-{"name":"👆Aquí sólo móvil 👁. Los canales funcionan a su horario,  abrirá en navegador.","image":"https://i.blogs.es/e36bb3/acestream-2/650_1200.webp",
-"url":"https://proxy.zeronet.dev/18cZ4ehTarf34TCxntYDx9T2NHXiBvsVie/",
-"embed": "true","isHost": "true"}
+        }
 
 	]
 }
