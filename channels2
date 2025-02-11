@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiafanart_sincolor1.xml.gz, https://raw.githubusercontent.com/Icastresana/lista1/main/epg.xml, https://xmltv.info/de/epg.xml, https://www.open-epg.com/files/unitedstatespremium1.xml, https://iptvx.one/EPG"
-#EXTINF:-1 tvg-logo="" tvg-id="", ULTIMA ACTUALIZACIÓN: 11-2-2025
+#EXTINF:-1 tvg-logo="https://png.pngtree.com/png-vector/20190630/ourlarge/pngtree-refresh-icon-for-your-project-png-image_1532171.jpg" tvg-id="", ULTIMA ACTUALIZACIÓN: 11-2-2025
 acestream://
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" tvg-id="DAZN LaLiga HD", DAZN LA LIGA FHD (SAT) por Tronoss
 acestream://28c8115681bf6e4565cb5e987530c2f606cc561f
