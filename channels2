@@ -129,3 +129,9 @@ acestream://008722562de872871b879d9d0cab4fb4b79784b2
 acestream://e3ad553098e0c1e70cba1ea2a906dc27aa3452a2
 #EXTINF:-1 tvg-id="UFC TV HD por Tronoss", UFC TV HD por Tronoss
 acestream://c73e3eefe1f4a90fd7495f8be2d5f772d758713b
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SX1jhBzy/lasexta.png" tvg-id="La Sexta HD", LA SEXTA FHD por Tronoss
+http://127.0.0.1:6878/ace/getstream?id=906191eed84a42d83939fd150ee3c04834bc0533
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fb9dbDW/tdp.png" tvg-id="Teledeporte", Teledeporte FHD por Tronoss
+http://127.0.0.1:6878/ace/getstream?id=2c5a883ed564be5ff3692705c25556613c395b11
+#EXTINF:-1 tvg-logo="https://assets.laliga.com/assets/2023/07/13/medium/60e1502d7d6098162828bb002e98bdb4.png" tvg-id="GOL PLAY", Gol Play FHD por Tronoss
+http://127.0.0.1:6878/ace/getstream?id=f5be5fe6063db01a7587c37acf57fcadabea560a
