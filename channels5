@@ -1,31 +1,5 @@
 #EXTM3U 
-#EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/58WhUbhDxh9K0a98dI4qNjwAyOBaNyGauw4RBENw7y4NMHTJQcKufiDUXFaRaTy8Xzc=w600-h300-pc0xffffff-pd",M+ 1080P Opcion 1 ACESTREAM
-acestream://56ac8e227d526e722624675ccdd91b0cc850582f
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Deportes_por_Movistar_Plus%2B_2023_Logo.svg/1200px-Deportes_por_Movistar_Plus%2B_2023_Logo.svg.png",M. DEPORTES 1080P Opcion 2 ACESTREAM
-acestream://55d4602cb22b0d8a33c10c2c2f42dae64a9e8895
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Deportes_por_Movistar_Plus%2B_2023_Logo.svg/1200px-Deportes_por_Movistar_Plus%2B_2023_Logo.svg.png",M. DEPORTES 720P Opcion 3 ACESTREAM
-acestream://3a74d9869b13e763476800740c6625e715a39879
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Deportes_por_Movistar_Plus%2B_2023_Logo.svg/1200px-Deportes_por_Movistar_Plus%2B_2023_Logo.svg.png",M. DEPORTES 1080P Opcion 4 ACESTREAM
-acestream://81c467f75aa3e4b02361730bb8973ca2234cf684
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Deportes_por_Movistar_Plus%2B_2023_Logo.svg/1200px-Deportes_por_Movistar_Plus%2B_2023_Logo.svg.png",M. DEPORTES 1080P Opcion 5 ACESTREAM
-acestream://dca9d8b0be1a5d68c929f5cebb61b82a4f62a307
-#EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/58WhUbhDxh9K0a98dI4qNjwAyOBaNyGauw4RBENw7y4NMHTJQcKufiDUXFaRaTy8Xzc=w600-h300-pc0xffffff-pd",M+ 1080P Opcion 6 ACESTREAM
-acestream://bf270b6486daf3a2aa54bc027fd7cb02401a447a
-#EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/58WhUbhDxh9K0a98dI4qNjwAyOBaNyGauw4RBENw7y4NMHTJQcKufiDUXFaRaTy8Xzc=w600-h300-pc0xffffff-pd",M+ 1080P Opcion 7
-https://xyzdddd.mizhls.ru/lb/premium437/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Deportes_por_Movistar_Plus%2B_2023_Logo.svg/1200px-Deportes_por_Movistar_Plus%2B_2023_Logo.svg.png",M. DEPORTES 1080P Opcion 8
-https://xyzdddd.mizhls.ru/lb/premium436/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://as01.epimg.net/img/comunes/fotos/fichas/equipos/large/342.png",AUNQUE PIERDA EL CCF... 
-https://xyzdddd.mizhls.ru/lb/premium111/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.clubs.nfl.com/image/private/t_editorial_landscape_mobile/f_auto/chiefs/yc93j5hmgl9jwigekepa.jpg",...AUN PUEDE GANAR MAHOMES
-https://xyzdddd.mizhls.ru/lb/premium405/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="",-respaldo1-
-https://xyzdddd.mizhls.ru/lb/premium150/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="",-respaldo2-
-https://xyzdddd.mizhls.ru/lb/premium436/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="",-respaldo3-
-https://xyzdddd.mizhls.ru/lb/premium926/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="",-respaldo4-
-http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/162913
-#EXTINF:-1 tvg-id="" tvg-logo="",-respaldo5-
-https://xyzdddd.mizhls.ru/lb/premium926/index.m3u8https://www.rojadirectaenvivo.pl/2025/super-bowl-59-eagles-vs-chiefs-en-vivo.php
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.esmadrid.com/sites/default/files/styles/content_type_full/public/eventos/eventos/real_madrid_-_manchester_city_uefa_champions_league_1.jpg?itok=Mb5Vv7Pd",MANCHESTER CITY VS REAL MADRID (11/2 21.00) OPCION 1
+acestream://0a26e20f39845e928411e09a124374fccb6e1478
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.esmadrid.com/sites/default/files/styles/content_type_full/public/eventos/eventos/real_madrid_-_manchester_city_uefa_champions_league_1.jpg?itok=Mb5Vv7Pd",MANCHESTER CITY VS REAL MADRID (11/2 21.00) OPCION 2
+acestream://be5cf4441685df4540a34938fb3774818fa62310
