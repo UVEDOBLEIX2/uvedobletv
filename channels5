@@ -3,4 +3,12 @@
 acestream://0a26e20f39845e928411e09a124374fccb6e1478
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.esmadrid.com/sites/default/files/styles/content_type_full/public/eventos/eventos/real_madrid_-_manchester_city_uefa_champions_league_1.jpg?itok=Mb5Vv7Pd",MANCHESTER CITY VS REAL MADRID (11/2 21.00) OPCION 2 UHD 4K
 acestream://be5cf4441685df4540a34938fb3774818fa62310
+#EXTINF:-1 tvg-id="" tvg-logo="",eventos 1
+acestream://7cdf501671e3a34e56f1686471ccd2f587cade7c
+#EXTINF:-1 tvg-id="" tvg-logo="",eventos 2
+acestream://04f9f66c3dd1d9226f2d4a500bec97c55ee3256a
+#EXTINF:-1 tvg-id="" tvg-logo="",eventos 3
+acestream://d1632b993ac2f980f601e1026b3966654a93beee
+#EXTINF:-1 tvg-id="" tvg-logo="",eventos 1
+acestream://7cdf501671e3a34e56f1686471ccd2f587cade7c
 
