@@ -9,13 +9,7 @@
 
 	[
 
-        {
-         "name": "SUPERBOWL LIX",
-         "image": "https://upload.wikimedia.org/wikipedia/en/thumb/8/82/Super_Bowl_LIX_Logo.svg/1200px-Super_Bowl_LIX_Logo.svg.png",
-         "url": "https://raw.githubusercontent.com/UVEDOBLEIX2/uvedobletv/refs/heads/main/channels5",
-         "info":"",
-         "import": false
-        },
+
 
         {
          "name": "Lista de Elcano (legado)",
@@ -53,6 +47,14 @@
          "name": "Lista de Prioritarios2",
          "image": "https://www.shutterstock.com/shutterstock/videos/1015182523/thumb/10.jpg?ip=x480",
          "url": "https://www.dl.dropboxusercontent.com/scl/fi/jr8n6zz1w9nv21zi56fcn/Prioritarios2.txt?rlkey=p2oumhcwu738n9h9hmuzw3rt5",
+         "info":"",
+         "import": false
+        },
+
+        {
+         "name": "PETICIONES",
+         "image": "https://piks.eldesmarque.com/thumbs/o/1200/bin/2022/04/06/el_balon_de_la_champions_league_foto_cordon_press_001.jpg",
+         "url": "https://raw.githubusercontent.com/UVEDOBLEIX2/uvedobletv/refs/heads/main/channels5",
          "info":"",
          "import": false
         }
