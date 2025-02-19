@@ -2,7 +2,16 @@
 #EXTVLCOPT:network-caching=2000
 
 #EXTINF:-1 tvg-logo="" tvg-id="" , ACTUALIZADO 19-2-25
-acestream://b5f549da9cafaffab01fb04567ce8a5ad4416b5c
+https://joaquinito02.es/vavoo/2881668464.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1 HD" group-title="FORMULA 1", DAZN F1 FHD ELCANO OP1
+acestream://d6281d4e6310269b416180442a470d23a4a99dc9
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1 HD" group-title="FORMULA 1", DAZN F1 FHD ELCANO OP2
+acestream://2c6e4c897661e6b0257bfe931b66d20b2ec763b6
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1 HD" group-title="FORMULA 1", DAZN F1 FHD ELCANO OP3
+acestream://71eef80158aa8b37f3dc59f6793c6696df9a2dfa
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1 HD" group-title="FORMULA 1", DAZN F1 HD ELCANO OP4
+acestream://268289e7a3c5209960b53b4d43c8c65fab294b85
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" tvg-id="DAZN LaLiga HD" group-title="LA LIGA", DAZN LA LIGA FHD --> NEW ERA
 acestream://b5f549da9cafaffab01fb04567ce8a5ad4416b5c
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="DAZN 1 HD" group-title="DAZN", DAZN 1 FHD --> NEW ERA
