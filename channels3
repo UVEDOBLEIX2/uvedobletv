@@ -1,5 +1,8 @@
 #EXTM3U 
 
+#EXTINF:-1 tvg-id="por ㄩᐯ乇²" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Test.svg/2560px-Test.svg.png" ,*emisiones en pruebas*
+
+
 #EXTINF:-1 tvg-id="EVENTOS 1 por ㄩᐯ乇²" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/DAZN_F1_2024_logo.svg/250px-DAZN_F1_2024_logo.svg.png" ,DAZN F1 por ㄩᐯ乇²
 https://qmaalhy7acgxwhm.ngolpdkyoctjcddxshli469r.org/sunshine/l2tfGLHpHGlwNZ2lBqav06y3a-GBesGOGxe2gW6HX2c7mc-Intac06KYenwVaAui_SDgnbUs2CBDiRHloPDq1W9nb_GZS0P-xi2cwFXXcGduTa7OrBuTOQwL_uXVQlpxAidB60h6UO-8O6vIen8FbsKb9HdtZLo5UyjX9DPZAM6yQUZMD6eyaaF6xXxr2wiM/hls/index.m3u8
 #EXTINF:-1 tvg-id="EVENTOS 3 por ㄩᐯ乇²" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/DAZN_F1_2024_logo.svg/250px-DAZN_F1_2024_logo.svg.png" ,DAZN F1 opcion2 por ㄩᐯ乇²
