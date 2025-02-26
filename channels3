@@ -1,33 +1,12 @@
 #EXTM3U 
-#EXTINF:-1 tvg-id="M+ LIGA 1 1080P por ㄩᐯ乇²",M+ LIGA 1 1080P
-acestream://4f416d74e9feb1812f7d10c637e46d40ebab3e2b
-#EXTINF:-1 tvg-id="M+ LIGA 1 720P por ㄩᐯ乇²",M+ LIGA 1 720P 
-acestream://b308f69384b9be8c5cfdcb45cfcc3d595b0cbaa1
-#EXTINF:-1 tvg-id="M+ LIGA 2 1080P por ㄩᐯ乇²",M+ LIGA 2 1080P
-acestream://83a2be1d789584c6040308d485ab1b29880af100
-#EXTINF:-1 tvg-id="TV BAR 1080P por ㄩᐯ乇²",TV BAR 1080P 
-acestream://954b2cb573313690f2a6d6a2e70102fb49ace952
-#EXTINF:-1 tvg-id="DAZN LIGA 1080P por ㄩᐯ乇²",DAZN LIGA 1080P
-acestream://6af858dff80a87e247c6ad681aa5adf09f988d1e
-#EXTINF:-1 tvg-id="M+ DEPORTES 1080P por ㄩᐯ乇²",M+ DEPORTES 1080P
-acestream://dca9d8b0be1a5d68c929f5cebb61b82a4f62a307
-#EXTINF:-1 tvg-id="M+ DEPORTES 2 1080P por ㄩᐯ乇²",M+ DEPORTES 2 1080P
-acestream://a54aed5e91e4a99a3582551db44fd472e1addda6
-#EXTINF:-1 tvg-id="DAZN F1 1080P por ㄩᐯ乇²",DAZN F1 1080P
-acestream://0390f35108dd054332097af5fcb53a192d0289bf
-#EXTINF:-1 tvg-id="M+ COPA DEL REY 1080P por ㄩᐯ乇²",M+ COPA DEL REY 1080P
-acestream://adb8b91f027336eb5091ca5852561202c35f0b6e
-#EXTINF:-1 tvg-id="LA 1 1080P por ㄩᐯ乇²",LA 1 1080P
-acestream://54064ca54e2bebd37851431c3f023aa35ce10ea6
-#EXTINF:-1 tvg-id="#VAMOS 1080P por ㄩᐯ乇²",#VAMOS 1080P
-acestream://0b7057503d40a24417441484479cfe2d0eceb2fd
+
 #EXTINF:-1 tvg-id="EVENTOS 1 por ㄩᐯ乇²",EVENTOS 1 por ㄩᐯ乇²
-acestream://86495fe134ff065d5217497babe6be33f81d37d1
+https://qmaalhy7acgxwhm.ngolpdkyoctjcddxshli469r.org/sunshine/l2tfGLHpHGlwNZ2lBqav06y3a-GBesGOGxe2gW6HX2c7mc-Intac06KYenwVaAui_SDgnbUs2CBDiRHloPDq1W9nb_GZS0P-xi2cwFXXcGduTa7OrBuTOQwL_uXVQlpxAidB60h6UO-8O6vIen8FbsKb9HdtZLo5UyjX9DPZAM6yQUZMD6eyaaF6xXxr2wiM/hls/index.m3u8
 #EXTINF:-1 tvg-id="EVENTOS 2 por ㄩᐯ乇²",EVENTOS 2 por ㄩᐯ乇²
-acestream://4c8a9cd2090cacff69ed64926e0f6e91366903e2
+https://iezmzlrgtn5pgme.ngolpdkyoctjcddxshli469r.org/sunshine/848lfQLar3w2iPPlc2zlXup3zdfaHxtVhyBUZzOyGyDtEGKEFOlIjbmr0JPvPh2V2_pXFOeIPRRt-ldlSEfbK5kpIK0fCjPVBjtMlPgGTQlq7c4C4ullxlinTa6B-eNCGskLxldEwE5Z6fV3X84YPY0OiOVma_FQ_Zj4UzJesrIuXEU8_2LA2yHH3nsN2FH9/hls/index.m3u8
 #EXTINF:-1 tvg-id="EVENTOS 3 por ㄩᐯ乇²",EVENTOS 3 por ㄩᐯ乇²
-acestream://a7a545d5f8040ca6626aa24f550c286642f24928
+https://iezmzlrgtn5pgme.ngolpdkyoctjcddxshli469r.org/sunshine/cOJQEfWyoiNF78I2iwZuHZEUru0JQjwZeYnBBLtsJ_mdDBw2u_HKg2VZd7gHswTSxwRgn8jIJg7ckasirQ5E4wgCZ8eJHZW792pFJGg3zEoappRDDSlbNDP2RjLivrSnhf1K8PiNiC5TsQ3joNewlAYLJN1lLGtBUL0zrZgU7NPvzUzMYXtMR3VK_Bk0t4Nf/hls/index.m3u8
 #EXTINF:-1 tvg-id="EVENTOS 4 por ㄩᐯ乇²",EVENTOS 4 por ㄩᐯ乇²
-acestream://d80d6e2a4350bc9886fbb55a2149b3de3c057ddf
+https://mjkskdvpfpb1fbv.ngolpdkyoctjcddxshli469r.org/sunshine/fcHYqAh4fwBZsJLrsvLofzzXkZhNKZYX5Rz0oGhT0h-TfOpNT_PwKjAiqhKpk5JnhgzPlwycIUajaJ4W0cEFeWY--RcZy9ByLnsRPQgPBI_UGkCvaNIeXTGgHagqPmlv7ackR7o-jzNSnIdDehuK1oT6gun3LeHPawD03kHjUfCZC0OABGoTTSbXj2aE3g2I/hls/index.m3u8
 #EXTINF:-1 tvg-id="EVENTOS 5 por ㄩᐯ乇²",EVENTOS 5 por ㄩᐯ乇²
-acestream://0d7cccccdad350bef0ac65ec37bf55a18d4865a8
+https://shouurvki7jtfax.ngolpdkyoctjcddxshli469r.org/sunshine/SiHlefHG4J0zJu8QzuxLn2xErESaVQpTGS4ObF979F-i9Pn1kAC4Tdhh3PnPC3sIux7dXgm7dB06CcJk2GYl0gkVDoTcImIyHkMB3GGmu3dc_59SjN2sJBS_fD3NO-iZ4WvcCdnXLlS30nGSdTzaqMcXzfzjT4LdjzXLiw7WNXBu_vJ6aqvk86n-uRPeGmMJ/hls/index.m3u8
