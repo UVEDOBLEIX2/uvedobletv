@@ -1,17 +1,11 @@
 #EXTM3U 
 
-#EXTINF:-1 tvg-id="por ㄩᐯ乇²" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Test.svg/2560px-Test.svg.png" ,*emisiones en pruebas*
+
 
 
 #EXTINF:-1 tvg-id="EVENTOS 1 por ㄩᐯ乇²" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/DAZN_F1_2024_logo.svg/250px-DAZN_F1_2024_logo.svg.png" ,DAZN F1 por ㄩᐯ乇²
 https://td3wb1bchdvsahp.ngolpdkyoctjcddxshli469r.org/sunshine/k4i_ILCJWlCjCwlUZO5iiGdyirj5FqZlhkZpN4UwWXpHMML8OckDjiSHcA_9SFIGzBmw25X6YjR1fkrj0cbiskLDXGis1qhuIyHR4GLaGg_8KAyApNuBwuXz1IvO-9H5oYXzlC9SiDhxrrR5DRZDMxTFzYF8B8mUphLrhIQNePdYqbwvrmMG9bccFSZeSOml/hls/index.m3u8
 #EXTINF:-1 tvg-id="EVENTOS 3 por ㄩᐯ乇²" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/DAZN_F1_2024_logo.svg/250px-DAZN_F1_2024_logo.svg.png" ,DAZN F1 opcion2 por ㄩᐯ乇²
 https://iezmzlrgtn5pgme.ngolpdkyoctjcddxshli469r.org/sunshine/cOJQEfWyoiNF78I2iwZuHZEUru0JQjwZeYnBBLtsJ_mdDBw2u_HKg2VZd7gHswTSxwRgn8jIJg7ckasirQ5E4wgCZ8eJHZW792pFJGg3zEoappRDDSlbNDP2RjLivrSnhf1K8PiNiC5TsQ3joNewlAYLJN1lLGtBUL0zrZgU7NPvzUzMYXtMR3VK_Bk0t4Nf/hls/index.m3u8
-#EXTINF:-1 tvg-id="EVENTOS 2 por ㄩᐯ乇²",TV BAR por ㄩᐯ乇²
-https://iezmzlrgtn5pgme.ngolpdkyoctjcddxshli469r.org/sunshine/848lfQLar3w2iPPlc2zlXup3zdfaHxtVhyBUZzOyGyDtEGKEFOlIjbmr0JPvPh2V2_pXFOeIPRRt-ldlSEfbK5kpIK0fCjPVBjtMlPgGTQlq7c4C4ullxlinTa6B-eNCGskLxldEwE5Z6fV3X84YPY0OiOVma_FQ_Zj4UzJesrIuXEU8_2LA2yHH3nsN2FH9/hls/index.m3u8
-#EXTINF:-1 tvg-id="EVENTOS 4 por ㄩᐯ乇²",M+ Accion por ㄩᐯ乇²
-https://mjkskdvpfpb1fbv.ngolpdkyoctjcddxshli469r.org/sunshine/fcHYqAh4fwBZsJLrsvLofzzXkZhNKZYX5Rz0oGhT0h-TfOpNT_PwKjAiqhKpk5JnhgzPlwycIUajaJ4W0cEFeWY--RcZy9ByLnsRPQgPBI_UGkCvaNIeXTGgHagqPmlv7ackR7o-jzNSnIdDehuK1oT6gun3LeHPawD03kHjUfCZC0OABGoTTSbXj2aE3g2I/hls/index.m3u8
-#EXTINF:-1 tvg-id="EVENTOS 5 por ㄩᐯ乇²",M+ Estrenos por ㄩᐯ乇²
-https://shouurvki7jtfax.ngolpdkyoctjcddxshli469r.org/sunshine/SiHlefHG4J0zJu8QzuxLn2xErESaVQpTGS4ObF979F-i9Pn1kAC4Tdhh3PnPC3sIux7dXgm7dB06CcJk2GYl0gkVDoTcImIyHkMB3GGmu3dc_59SjN2sJBS_fD3NO-iZ4WvcCdnXLlS30nGSdTzaqMcXzfzjT4LdjzXLiw7WNXBu_vJ6aqvk86n-uRPeGmMJ/hls/index.m3u8
-#EXTINF:-1 tvg-id="EVENTOS 5 por ㄩᐯ乇²",Dazn Liga por ㄩᐯ乇²
-https://mjkskdvpfpb1fbv.ngolpdkyoctjcddxshli469r.org/sunshine/CzAsooS4rUYZTWQRVyuY7dsN1TdffV6Vp6rst7WWt-s5YFHG-pZUsvFRnJ5-d4kW1Cw6B_prLpyc7GX-_CuR6frxcBegclDfXcy2nhxtRQJrMa87wqRcR6qxMvKVpgDEGIM0QEobYP72Hm3Zb_CNibA8KD6aQUyxuaKmXTKMmUZC5yi1Vs2AfXSsnz6LDoP7/hls/index.m3u8
+#EXTINF:-1 tvg-id="EVENTOS 2 por ㄩᐯ乇²",live tv pruebas ㄩᐯ乇²
+https://meshcast.io/view.html?geo=de1&id=uvedobletvpruebas1
