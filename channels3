@@ -1,11 +1,12 @@
-#EXTM3U 
+{"name": "Wiwi",
+"image":"",
+"author": "  ",
+"url":"",
+
+"stations": [
+
+{"name":"sólo móvil 👁","image":"https://www.eresources.com/wp-content/uploads/2018/07/YouTube_Live_Logo.png",
+"url":"https://meshcast.io/view.html?geo=de1&id=uvedobletvpruebas1",
+"embed": "true","isHost": "true"}]}
 
 
-
-
-#EXTINF:-1 tvg-id="EVENTOS 1 por ㄩᐯ乇²" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/DAZN_F1_2024_logo.svg/250px-DAZN_F1_2024_logo.svg.png" ,DAZN F1 por ㄩᐯ乇²
-https://td3wb1bchdvsahp.ngolpdkyoctjcddxshli469r.org/sunshine/k4i_ILCJWlCjCwlUZO5iiGdyirj5FqZlhkZpN4UwWXpHMML8OckDjiSHcA_9SFIGzBmw25X6YjR1fkrj0cbiskLDXGis1qhuIyHR4GLaGg_8KAyApNuBwuXz1IvO-9H5oYXzlC9SiDhxrrR5DRZDMxTFzYF8B8mUphLrhIQNePdYqbwvrmMG9bccFSZeSOml/hls/index.m3u8
-#EXTINF:-1 tvg-id="EVENTOS 3 por ㄩᐯ乇²" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/DAZN_F1_2024_logo.svg/250px-DAZN_F1_2024_logo.svg.png" ,DAZN F1 opcion2 por ㄩᐯ乇²
-https://iezmzlrgtn5pgme.ngolpdkyoctjcddxshli469r.org/sunshine/cOJQEfWyoiNF78I2iwZuHZEUru0JQjwZeYnBBLtsJ_mdDBw2u_HKg2VZd7gHswTSxwRgn8jIJg7ckasirQ5E4wgCZ8eJHZW792pFJGg3zEoappRDDSlbNDP2RjLivrSnhf1K8PiNiC5TsQ3joNewlAYLJN1lLGtBUL0zrZgU7NPvzUzMYXtMR3VK_Bk0t4Nf/hls/index.m3u8
-#EXTINF:-1 tvg-id="EVENTOS 2 por ㄩᐯ乇²",live tv pruebas ㄩᐯ乇²
-https://meshcast.io/view.html?geo=de1&id=uvedobletvpruebas1
