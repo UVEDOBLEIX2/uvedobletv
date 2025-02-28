@@ -34,6 +34,13 @@
          "import": false
         },
         {
+         "name": "zeronet",
+         "image": "",
+         "url": "http://127.0.0.1:43110/1H3KoazXt2gCJgeD8673eFvQYXG7cbRddU/lista-ace.m3u",
+         "info":"",
+         "import": false
+        },
+        {
          "name": "test",
          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Test.svg/2560px-Test.svg.png",
          "url": "https://raw.githubusercontent.com/UVEDOBLEIX2/uvedobletv/refs/heads/main/channels3",
