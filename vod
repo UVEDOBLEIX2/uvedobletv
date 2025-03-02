@@ -25,6 +25,13 @@
         "image": "https://i.imgur.com/u9ZSu9k.gif",
         "url": "https://raw.githubusercontent.com/UVEDOBLEIX2/uvedobletv/main/vod-extra",
         "import": false
+        },
+        {
+         "name": "CHUKY SERIES Y PELIS",
+         "image": "https://i.imgur.com/u9ZSu9k.gif",
+         "url": "https://raw.githubusercontent.com/chukyvaliente/ChukHoodCine/refs/heads/main/ChukyHoodCines",
+         "info":"",
+         "import": false
         }
         ]
 }
