@@ -1,5 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/refs/heads/master/guiatv.xml"
-#EXTVLCOPT:network-caching=2000
+#EXTM3U
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" tvg-id="M+ Deportes HD" group-title="MOVISTAR", M+ DEPORTES FHD --> NEW ERA II
 acestream://32bb94fe8047be0fddd13d3e3755b46e48fe70b1
