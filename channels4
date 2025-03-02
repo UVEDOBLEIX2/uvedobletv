@@ -18,6 +18,13 @@
          "info":"",
          "import": false
         },
+        {
+         "name": "DEPORTES ACESTREAM PROXY",
+         "image": "https://play-lh.googleusercontent.com/daJbjIyFdJ_pMOseXNyfZuy2mKOskuelsyUyj6AcGb0rV0sJS580ViqOTcSi-A1BUnI",
+         "url": "https://proxy.zeronet.dev/1H3KoazXt2gCJgeD8673eFvQYXG7cbRddU/lista-ace.m3u",
+         "info":"",
+         "import": false
+        },
 
         {
          "name": "DEPORTES SIN ACESTREAM",
@@ -26,24 +33,11 @@
          "info":"",
          "import": false
         },
+
         {
-         "name": "PROXY ACESTREAM (CARGA A VECES)",
-         "image": "",
-         "url": "https://proxy.zeronet.dev/1H3KoazXt2gCJgeD8673eFvQYXG7cbRddU/lista-ace.m3u",
-         "info":"",
-         "import": false
-        },
-        {
-         "name": "zeronet",
-         "image": "",
-         "url": "http://127.0.0.1:43110/1H3KoazXt2gCJgeD8673eFvQYXG7cbRddU/lista-ace.m3u",
-         "info":"",
-         "import": false
-        },
-        {
-         "name": "test",
-         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Test.svg/2560px-Test.svg.png",
-         "url": "https://raw.githubusercontent.com/UVEDOBLEIX2/uvedobletv/refs/heads/main/channels3",
+         "name": "EVENTOS DEL DIA",
+         "image": "https://us.123rf.com/450wm/sanek13744/sanek137442408/sanek13744240800242/234542435-live-stream-button-icon-in-flat-style-webinar-vector-illustration-on-isolated-background-streaming.jpg?ver=6",
+         "url": "https://af1c1onados.vercel.app/10.EVEntOs.dEl.DiA.w3u",
          "info":"",
          "import": false
         }
