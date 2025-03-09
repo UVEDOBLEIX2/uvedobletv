@@ -48,22 +48,6 @@
          "url": "https://raw.githubusercontent.com/Icastresana/lista1/refs/heads/main/eventos.m3u",
          "info":"",
          "import": false
-        },
-
-        {
-         "name": "prueba1",
-         "image": "",
-         "url": "https://raw.githubusercontent.com/Icastresana/lista1/refs/heads/main/Probando",
-         "info":"",
-         "import": false
-        },
-
-        {
-         "name": "pruebazeronet",
-         "image": "",
-         "url": "http://127.0.0.1:43110/1H3KoazXt2gCJgeD8673eFvQYXG7cbRddU/lista-ace.m3u",
-         "info":"",
-         "import": false
         }
 
 
