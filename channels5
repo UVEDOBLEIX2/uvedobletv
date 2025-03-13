@@ -1,6 +1,23 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/refs/heads/master/guiatv.xml, https://epgshare01.online/epgshare01/epg_ripper_NL1.xml.gz"
 #EXTVLCOPT:network-caching=2000
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/j2Z3Y01j/DAZN-F1-Logo.png" tvg-id="M+ Vamos HD" group-title="*ESPECIAL* FORMULA 1", DAZN F1 OPCION 1
+acestream://d6281d4e6310269b416180442a470d23a4a99dc9
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/j2Z3Y01j/DAZN-F1-Logo.png" tvg-id="M+ Vamos HD" group-title="*ESPECIAL* FORMULA 1", DAZN F1 OPCION 2
+https://dokko1new.iosplayer.ru/dokko1/premium537/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/j2Z3Y01j/DAZN-F1-Logo.png" tvg-id="M+ Vamos HD" group-title="*ESPECIAL* FORMULA 1", DAZN F1 OPCION 3
+https://esx1new.koskoros.ru/esx1/primadaznf1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/j2Z3Y01j/DAZN-F1-Logo.png" tvg-id="M+ Vamos HD" group-title="*ESPECIAL* FORMULA 1", DAZN F1 OPCION 4
+https://tv1.strm2234.xyz/f1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/j2Z3Y01j/DAZN-F1-Logo.png" tvg-id="M+ Vamos HD" group-title="*ESPECIAL* FORMULA 1", DAZN F1 OPCION 5
+https://www.oha.to/play/270716645/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/j2Z3Y01j/DAZN-F1-Logo.png" tvg-id="M+ Vamos HD" group-title="*ESPECIAL* FORMULA 1", DAZN F1 OPCION 6
+https://dokko1new.iosplayer.ru/dokko1/premium537/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/j2Z3Y01j/DAZN-F1-Logo.png" tvg-id="M+ Vamos HD" group-title="*ESPECIAL* FORMULA 1", DAZN F1 OPCION 7
+https://iezmzlrgtn5pgme.ngolpdkyoctjcddxshli469r.org/sunshine/jvJDaYMIkmHsfCbYj1DC2XYgF_744ouIjcsFcFx6acjNr9bW8PXTMLdAvLJsYdpW4Ffbvp19fZegFDHs7jRuYlGf4XLSk-fmJ8kaslndNCTYd3gZC4np60eAPCvumVa8wldBcy35AWFCKkNYe6aYvJZ1rH5ubrempyDNTzUWl2_QOSxqtZhr95T1_NSJZBOT/hls/index.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" tvg-id="M+ Vamos HD" group-title="MOVISTAR", #VAMOS FHD --> NEW ERA II
 acestream://c6b52ffb3b84836d334569204797d88bf15d48fa
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" tvg-id="M+ Vamos HD" group-title="MOVISTAR", #VAMOS ELLAS  FHD --> NEW ERA II
