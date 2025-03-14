@@ -5,51 +5,48 @@
     "image": "https://i.imgur.com/eIJw2hn.gif",
     "telegram": "",
     "info": "",
-    "groups": 
-
-	[
-
-
-
+    "groups": [
         {
-         "name": "DEPORTES ACESTREAM",
-         "image": "https://play-lh.googleusercontent.com/daJbjIyFdJ_pMOseXNyfZuy2mKOskuelsyUyj6AcGb0rV0sJS580ViqOTcSi-A1BUnI",
-         "url": "https://raw.githubusercontent.com/UVEDOBLEIX2/uvedobletv/refs/heads/main/channels5",
-         "info":"",
-         "import": false
+            "name": "DEPORTES ACESTREAM",
+            "image": "https://play-lh.googleusercontent.com/daJbjIyFdJ_pMOseXNyfZuy2mKOskuelsyUyj6AcGb0rV0sJS580ViqOTcSi-A1BUnI",
+            "url": "https://raw.githubusercontent.com/UVEDOBLEIX2/uvedobletv/refs/heads/main/channels5",
+            "info": "",
+            "import": false
         },
         {
-         "name": "DEPORTES ACESTREAM PROXY",
-         "image": "https://play-lh.googleusercontent.com/daJbjIyFdJ_pMOseXNyfZuy2mKOskuelsyUyj6AcGb0rV0sJS580ViqOTcSi-A1BUnI",
-         "url": "https://proxy.zeronet.dev/1H3KoazXt2gCJgeD8673eFvQYXG7cbRddU/lista-ace.m3u",
-         "info":"",
-         "import": false
+            "name": "DEPORTES ACESTREAM PROXY",
+            "image": "https://play-lh.googleusercontent.com/daJbjIyFdJ_pMOseXNyfZuy2mKOskuelsyUyj6AcGb0rV0sJS580ViqOTcSi-A1BUnI",
+            "url": "https://proxy.zeronet.dev/1H3KoazXt2gCJgeD8673eFvQYXG7cbRddU/lista-ace.m3u",
+            "info": "",
+            "import": false
         },
-
         {
-         "name": "DEPORTES SIN ACESTREAM",
-         "image": "https://www.tuexpertomovil.com/wp-content/uploads/2024/03/acestream-en-el-movil.jpg.webp",
-         "url": "https://af1c1onados.vercel.app/09.0.Menu.ZoNa.DepOrTiVa.w3u",
-         "info":"",
-         "import": false
+            "name": "DEPORTES ACESTREAM [AUTO TEST]",
+            "image": "https://play-lh.googleusercontent.com/daJbjIyFdJ_pMOseXNyfZuy2mKOskuelsyUyj6AcGb0rV0sJS580ViqOTcSi-A1BUnI",
+            "url": "https://raw.githubusercontent.com/UVEDOBLEIX2/uvedobletv/refs/heads/main/auto-ace",
+            "info": "",
+            "import": false
         },
-
         {
-         "name": "EVENTOS DEL DIA",
-         "image": "https://us.123rf.com/450wm/sanek13744/sanek137442408/sanek13744240800242/234542435-live-stream-button-icon-in-flat-style-webinar-vector-illustration-on-isolated-background-streaming.jpg?ver=6",
-         "url": "https://af1c1onados.vercel.app/10.EVEntOs.dEl.DiA.w3u",
-         "info":"",
-         "import": false
+            "name": "DEPORTES SIN ACESTREAM",
+            "image": "https://www.tuexpertomovil.com/wp-content/uploads/2024/03/acestream-en-el-movil.jpg.webp",
+            "url": "https://af1c1onados.vercel.app/09.0.Menu.ZoNa.DepOrTiVa.w3u",
+            "info": "",
+            "import": false
         },
-
         {
-         "name": "EVENTOS DEL DIA 2",
-         "image": "https://us.123rf.com/450wm/sanek13744/sanek137442408/sanek13744240800242/234542435-live-stream-button-icon-in-flat-style-webinar-vector-illustration-on-isolated-background-streaming.jpg?ver=6",
-         "url": "https://raw.githubusercontent.com/Icastresana/lista1/refs/heads/main/eventos.m3u",
-         "info":"",
-         "import": false
+            "name": "EVENTOS DEL DIA",
+            "image": "https://us.123rf.com/450wm/sanek13744/sanek137442408/sanek13744240800242/234542435-live-stream-button-icon-in-flat-style-webinar-vector-illustration-on-isolated-background-streaming.jpg?ver=6",
+            "url": "https://af1c1onados.vercel.app/10.EVEntOs.dEl.DiA.w3u",
+            "info": "",
+            "import": false
+        },
+        {
+            "name": "EVENTOS DEL DIA 2",
+            "image": "https://us.123rf.com/450wm/sanek13744/sanek137442408/sanek13744240800242/234542435-live-stream-button-icon-in-flat-style-webinar-vector-illustration-on-isolated-background-streaming.jpg?ver=6",
+            "url": "https://raw.githubusercontent.com/Icastresana/lista1/refs/heads/main/eventos.m3u",
+            "info": "",
+            "import": false
         }
-
-
-	]
+    ]
 }
