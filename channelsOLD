@@ -637,7 +637,13 @@
 			"info":"SOLO DISPOSITIVOS 4K",
 			"image": "https://i.postimg.cc/FzdPMFp5/tve4k.png",
 			"url": "acestream://4a714c436cb67d53cf197f9038239fddab2d8b20"
-			}
+			},
+			{
+			"name": "amc",
+			"info":"",
+			"image": "",
+			"url": "https://iezmzlrgtn5pgme.ngolpdkyoctjcddxshli469r.org/sunshine/rKOoybyeP22alR713M10A2jvdq9P5v2fz-zCTeMQlsgOzHKiTQ4KJUdX1jm6YIyNiZu4mjYZ1P4c7S-H4Mc4b_L5dU8hIaNoDi19E1Rriee2Ge-hbQofu5mxxDhADoFu_yS43BIPIGHIMlX5NwwsO5stbEue2SDyHouUHRHaWG3gO0tO8KW1B2UItUu_4D6N/hls/index.m3u8"
+			},
 		]
 	}
 
