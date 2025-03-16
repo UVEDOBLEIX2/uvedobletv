@@ -50,6 +50,13 @@
             "url": "https://raw.githubusercontent.com/Icastresana/lista1/refs/heads/main/peticiones",
             "info": "",
             "import": false
+        },
+        {
+            "name": "legacy",
+            "image": "",
+            "url": "https://raw.githubusercontent.com/UVEDOBLEIX2/uvedobletv/refs/heads/main/channelsOLD",
+            "info": "",
+            "import": false
         }
     ]
 }
