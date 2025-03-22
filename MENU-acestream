@@ -10,7 +10,7 @@
 
         {
             "name": "DEPORTES ACESTREAM [AUTO]🔥",
-            "image": "https://play-lh.googleusercontent.com/daJbjIyFdJ_pMOseXNyfZuy2mKOskuelsyUyj6AcGb0rV0sJS580ViqOTcSi-A1BUnI",
+            "image": "https://i.imgur.com/amneG2p.png",
             "url": "https://raw.githubusercontent.com/UVEDOBLEIX2/uvedobletv/refs/heads/main/auto-ace",
             "info": "",
             "import": false
@@ -18,7 +18,7 @@
         {
             "name": "DEPORTES ACESTREAM [PROXY]",
             "image": "https://play-lh.googleusercontent.com/daJbjIyFdJ_pMOseXNyfZuy2mKOskuelsyUyj6AcGb0rV0sJS580ViqOTcSi-A1BUnI",
-            "url": "https://proxy.zeronet.dev/1H3KoazXt2gCJgeD8673eFvQYXG7cbRddU/lista-ace.m3u",
+            "url": "https://i.imgur.com/Rbynifv.png",
             "info": "",
             "import": false
         },
@@ -45,15 +45,8 @@
             "import": false
         },
         {
-            "name": "---",
-            "image": "",
-            "url": "https://raw.githubusercontent.com/Icastresana/lista1/refs/heads/main/peticiones",
-            "info": "",
-            "import": false
-        },
-        {
-            "name": "legacy",
-            "image": "",
+            "name": "Legacy",
+            "image": "https://png.pngtree.com/png-vector/20220623/ourmid/pngtree-back-arrow-backward-direction-previous-png-image_5198415.png",
             "url": "https://raw.githubusercontent.com/UVEDOBLEIX2/uvedobletv/refs/heads/main/channelsOLD",
             "info": "",
             "import": false
