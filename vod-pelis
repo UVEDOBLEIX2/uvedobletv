@@ -21,8 +21,14 @@
 
 
 				{
-				"name": "Mill 1",
-				"info": "",
+				"name": "Millennium 1",
+				"info": "opcion 1",
+				"image": "",
+				"url": "https://be6721.rcr72.waw04.cdn255.com/hls2/01/05666/rv84r5d4hslp_h/master.m3u8?t=DBnyFy83gsqLO8veZsu21q8yCd-wZPPyk42mu2ObeHA&s=1742656789&e=10800&f=28331226&srv=21&asn=34977&sp=4000&p="
+				},
+				{
+				"name": "Millennium 1",
+				"info": "opcion 2",
 				"image": "",
 				"url": "acestream://2c070877f42af242b7fa0ab336192b6d0c5e81f0"
 				},
