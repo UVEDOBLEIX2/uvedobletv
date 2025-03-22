@@ -18,28 +18,28 @@
         {
             "name": "DEPORTES ACESTREAM [PROXY]",
             "image": "https://i.imgur.com/Rbynifv.png",
-            "url": "https://i.imgur.com/Rbynifv.png",
+            "url": "https://proxy.zeronet.dev/1H3KoazXt2gCJgeD8673eFvQYXG7cbRddU/lista-ace.m3u",
             "info": "",
             "import": false
         },
 
         {
             "name": "DEPORTES SIN ACESTREAM",
-            "image": "https://www.tuexpertomovil.com/wp-content/uploads/2024/03/acestream-en-el-movil.jpg.webp",
+            "image": "https://i.imgur.com/nheAUUX.png",
             "url": "https://af1c1onados.vercel.app/09.0.Menu.ZoNa.DepOrTiVa.w3u",
             "info": "",
             "import": false
         },
         {
             "name": "EVENTOS DEL DIA",
-            "image": "https://us.123rf.com/450wm/sanek13744/sanek137442408/sanek13744240800242/234542435-live-stream-button-icon-in-flat-style-webinar-vector-illustration-on-isolated-background-streaming.jpg?ver=6",
+            "image": "https://i.imgur.com/bSAJDxB.jpeg",
             "url": "https://af1c1onados.vercel.app/10.EVEntOs.dEl.DiA.w3u",
             "info": "",
             "import": false
         },
         {
             "name": "EVENTOS DEL DIA 2",
-            "image": "https://us.123rf.com/450wm/sanek13744/sanek137442408/sanek13744240800242/234542435-live-stream-button-icon-in-flat-style-webinar-vector-illustration-on-isolated-background-streaming.jpg?ver=6",
+            "image": "https://i.imgur.com/bSAJDxB.jpeg",
             "url": "https://raw.githubusercontent.com/Icastresana/lista1/refs/heads/main/eventos.m3u",
             "info": "",
             "import": false
