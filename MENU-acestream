@@ -50,6 +50,13 @@
             "url": "https://raw.githubusercontent.com/UVEDOBLEIX2/uvedobletv/refs/heads/main/channelsOLD",
             "info": "",
             "import": false
+        },
+        {
+            "name": "manual",
+            "image": "",
+            "url": "https://raw.githubusercontent.com/UVEDOBLEIX2/uvedobletv/refs/heads/main/manual",
+            "info": "",
+            "import": false
         }
     ]
 }
