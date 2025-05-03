@@ -18,7 +18,7 @@
         {
             "name": "DEPORTES ACESTREAM [PROXY]",
             "image": "https://i.imgur.com/Rbynifv.png",
-            "url": "https://proxy.zeronet.dev/1JKe3VPvFe35bm1aiHdD4p1xcGCkZKhH3Q/data/listas/lista_iptv.m3u",
+            "url": "https://proxy.zeronet.dev/1JKe3VPvFe35bm1aiHdD4p1xcGCkZKhH3Q/data/listas/lista_fuera_iptv.m3u",
             "info": "",
             "import": false
         },
@@ -41,20 +41,6 @@
             "name": "EVENTOS DEL DIA 2",
             "image": "https://i.imgur.com/bSAJDxB.jpeg",
             "url": "https://raw.githubusercontent.com/Icastresana/lista1/refs/heads/main/eventos.m3u",
-            "info": "",
-            "import": false
-        },
-        {
-            "name": "Legacy",
-            "image": "https://png.pngtree.com/png-vector/20220623/ourmid/pngtree-back-arrow-backward-direction-previous-png-image_5198415.png",
-            "url": "https://raw.githubusercontent.com/UVEDOBLEIX2/uvedobletv/refs/heads/main/channelsOLD",
-            "info": "",
-            "import": false
-        },
-        {
-            "name": "manual",
-            "image": "",
-            "url": "https://raw.githubusercontent.com/UVEDOBLEIX2/uvedobletv/refs/heads/main/manual",
             "info": "",
             "import": false
         }
