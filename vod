@@ -21,14 +21,21 @@
         "import": false
         },
         {
-         "name": "AFICIONADOS PELIS",
+         "name": "AFICIONADOS - PELIS",
          "image": "https://i.imgur.com/u9ZSu9k.gif",
          "url": "https://af1cionados.vercel.app/CiNe%20CasTeLlanO.w3u",
          "info":"",
          "import": false
         },
         {
-         "name": "CHUKY SERIES Y PELIS",
+         "name": "AFICIONADOS - SERIES",
+         "image": "https://i.imgur.com/u9ZSu9k.gif",
+         "url": "https://series-af1cionados.vercel.app/Menu%20SeRies.w3u",
+         "info":"",
+         "import": false
+        },
+        {
+         "name": "CHUKY - SERIES Y PELIS",
          "image": "https://i.imgur.com/u9ZSu9k.gif",
          "url": "https://raw.githubusercontent.com/chukyvaliente/ChukHoodCine/refs/heads/main/ChukyHoodCines",
          "info":"",
