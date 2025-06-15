@@ -43,6 +43,13 @@
             "url": "https://raw.githubusercontent.com/Icastresana/lista1/refs/heads/main/eventos.m3u",
             "info": "",
             "import": false
+        },
+        {
+            "name": "manual",
+            "image": "",
+            "url": "https://raw.githubusercontent.com/UVEDOBLEIX2/uvedobletv/refs/heads/main/manual",
+            "info": "",
+            "import": false
         }
     ]
 }
