@@ -6,8 +6,6 @@
     "telegram": "",
     "info": "",
     "groups": [
-
-
         {
             "name": "DEPORTES ACESTREAM [AUTO]🔥",
             "image": "https://i.imgur.com/amneG2p.png",
@@ -15,14 +13,6 @@
             "info": "",
             "import": false
         },
-        {
-            "name": "DEPORTES ACESTREAM [PROXY]",
-            "image": "https://i.imgur.com/Rbynifv.png",
-            "url": "https://proxy.zeronet.dev/1JKe3VPvFe35bm1aiHdD4p1xcGCkZKhH3Q/data/listas/lista_fuera_iptv.m3u",
-            "info": "",
-            "import": false
-        },
-
         {
             "name": "DEPORTES SIN ACESTREAM",
             "image": "https://i.imgur.com/nheAUUX.png",
@@ -41,13 +31,6 @@
             "name": "EVENTOS DEL DIA 2",
             "image": "https://i.imgur.com/bSAJDxB.jpeg",
             "url": "https://raw.githubusercontent.com/Icastresana/lista1/refs/heads/main/eventos.m3u",
-            "info": "",
-            "import": false
-        },
-        {
-            "name": "manual",
-            "image": "",
-            "url": "https://raw.githubusercontent.com/UVEDOBLEIX2/uvedobletv/refs/heads/main/manual",
             "info": "",
             "import": false
         }
