@@ -33,13 +33,6 @@
             "url": "https://raw.githubusercontent.com/Icastresana/lista1/refs/heads/main/eventos.m3u",
             "info": "",
             "import": false
-        },
-        {
-            "name": "AF1CIONADOS",
-            "image": "",
-            "url": "https://af1cionados.vercel.app/AcEStREAM%20iDs.w3u",
-            "info": "",
-            "import": false
         }
     ]
 }
