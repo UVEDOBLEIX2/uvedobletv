@@ -12,9 +12,16 @@
 	[
 
         {
-         "name": "TDT CHANNELS",
+         "name": "LISTA AF1CIONADOS",
          "image": "https://i.postimg.cc/W317y4K7/TDT.png",
-         "url": "https://pastebin.com/UWXsWLF9",
+         "url": "https://raw.githubusercontent.com/yIsus-mEx/AF1CIONADOS/main/af1cionados.w3u",
+         "info":"",
+         "import": false
+        },
+        {
+         "name": "LISTA CHUKI",
+         "image": "https://i.postimg.cc/W317y4K7/TDT.png",
+         "url": "https://raw.githubusercontent.com/chukyvaliente/ChukHoodCine/refs/heads/main/ChukyHoodCines",
          "info":"",
          "import": false
         },
@@ -24,14 +31,7 @@
          "url": "https://af1c1onados.vercel.app/05.Menu.Tv.ShOw.w3u",
          "info":"",
          "import": false
-        },
-        {
-         "name": "EVENTOS EN DIFERIDO",
-         "image": "https://cdn-icons-png.flaticon.com/512/1248/1248824.png",
-         "url": "https://af1c1onados.vercel.app/03.0.Menu.DepOrtEs.dIFerIDos.w3u",
-         "info":"",
-         "import": false
-        },
+        }
 
 
 
