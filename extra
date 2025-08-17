@@ -13,14 +13,14 @@
 
         {
          "name": "LISTA AF1CIONADOS",
-         "image": "https://i.postimg.cc/W317y4K7/TDT.png",
+         "image": "",
          "url": "https://raw.githubusercontent.com/yIsus-mEx/AF1CIONADOS/main/af1cionados.w3u",
          "info":"",
          "import": false
         },
         {
          "name": "LISTA CHUKI",
-         "image": "https://i.postimg.cc/W317y4K7/TDT.png",
+         "image": "",
          "url": "https://raw.githubusercontent.com/chukyvaliente/ChukHoodCine/refs/heads/main/ChukyHoodCines",
          "info":"",
          "import": false
@@ -29,6 +29,13 @@
          "name": "TV SHOWS",
          "image": "https://i.postimg.cc/L8V8H62q/tv-show-new.png",
          "url": "https://af1c1onados.vercel.app/05.Menu.Tv.ShOw.w3u",
+         "info":"",
+         "import": false
+        },
+        {
+         "name": "Prrrrrrrrruebas",
+         "image": "",
+         "url": "https://raw.githubusercontent.com/UVEDOBLEIX2/uvedobletv/refs/heads/main/pruebaswiwi",
          "info":"",
          "import": false
         }
