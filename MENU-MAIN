@@ -14,6 +14,13 @@
         "import": false
         },
         {
+        "name": "VOD",
+        "image": "https://i.imgur.com/Z6cnW5W.png",
+        "url": "https://raw.githubusercontent.com/UVEDOBLEIX2/uvedobletv/refs/heads/main/vod",
+        "info":"",
+        "import": false
+        },
+        {
         "name": "𝓔𝓧𝓣𝓡𝓐",
         "image": "https://i.imgur.com/VUiiW5G.png",
         "url": "https://raw.githubusercontent.com/UVEDOBLEIX2/uvedobletv/main/extra",
