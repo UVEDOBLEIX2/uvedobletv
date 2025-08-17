@@ -1,0 +1,5 @@
+#EXTM3U 
+#EXTVLCOPT:network-caching=1000
+
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="LIGA HIPERTENSIONES", LIGA HIPERTENSIONES
+https://dokko1new.newkso.ru/dokko1/premium539/mono.m3u8
