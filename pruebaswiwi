@@ -7,3 +7,5 @@ https://v12.thetvapp.to/hls/NFL15/tracks-v1a1/mono.m3u8?token=0rzcZG0G2noDS6vX0x
 https://v8.thetvapp.to/hls/NFLNetwork/tracks-v1a1/mono.m3u8?token=yFEP69lrd1lgFu3QzLciRQ&expires=1757044961&user_id=dUFsZ3Y2bExuRFBXc1pnbXl4VzNJbGZzRnB4c1VGNG81cTI5b3R2Vw==
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="", NFL 3
 https://v2.thetvapp.to/hls/NFLRedZone/tracks-v1a1/mono.m3u8?token=nmowNQ5ZsNe4WujPOn254Q&expires=1757045009&user_id=dUFsZ3Y2bExuRFBXc1pnbXl4VzNJbGZzRnB4c1VGNG81cTI5b3R2Vw==
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="", NFL 4
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ced7d5df64be98e07ed47b6&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=708&terminate=false&userId=
