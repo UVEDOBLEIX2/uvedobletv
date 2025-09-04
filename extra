@@ -33,9 +33,16 @@
          "import": false
         },
         {
-         "name": "Prrrrrrrrruebas",
+         "name": "Pruebas NFL 1",
          "image": "",
          "url": "https://raw.githubusercontent.com/UVEDOBLEIX2/uvedobletv/refs/heads/main/pruebaswiwi",
+         "info":"",
+         "import": false
+        },
+        {
+         "name": "Pruebas NFL 2",
+         "image": "",
+         "url": "https://raw.githubusercontent.com/hechizeroazul/AF1CIONADOS/refs/heads/main/02.11.-NFL%20StREamS.w3u",
          "info":"",
          "import": false
         }
