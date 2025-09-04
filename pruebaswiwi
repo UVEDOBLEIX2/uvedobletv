@@ -1,7 +1,9 @@
 #EXTM3U 
 #EXTVLCOPT:network-caching=1000
 
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="LIGA HIPERTENSIONES", LIGA HIPERTENSIONES opc1
-https://dokko1new.newkso.ru/dokko1/premium539/mono.m3u8
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="LIGA HIPERTENSIONES", LIGA HIPERTENSIONES opc2
-https://shouurvki7jtfax.ngolpdkyoctjcddxshli469r.org/sunshine/kfeckSUv7FgLbp7qtGe60P4Bt_YbPzfH-R-xuEuRoRzLgN8qKRWEjchs4ONrvqvpgJr2wHHKSDOuqgAwMZPWH4GO_40kk1Gn-wxeHoo2nmLqyKOyCPjQx2seYymalz-GwKFjqhIlmELEV9r6MMVWODaKWFP86xadNEKed0aklWMW4PnxV_yfStiMrQWRd3LY/hls/index.m3u8
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="", NFL 1
+https://v12.thetvapp.to/hls/NFL15/tracks-v1a1/mono.m3u8?token=0rzcZG0G2noDS6vX0xsmaA&expires=1757044831&user_id=dUFsZ3Y2bExuRFBXc1pnbXl4VzNJbGZzRnB4c1VGNG81cTI5b3R2Vw==
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="", NFL 2
+https://v8.thetvapp.to/hls/NFLNetwork/tracks-v1a1/mono.m3u8?token=yFEP69lrd1lgFu3QzLciRQ&expires=1757044961&user_id=dUFsZ3Y2bExuRFBXc1pnbXl4VzNJbGZzRnB4c1VGNG81cTI5b3R2Vw==
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="", NFL 3
+https://v2.thetvapp.to/hls/NFLRedZone/tracks-v1a1/mono.m3u8?token=nmowNQ5ZsNe4WujPOn254Q&expires=1757045009&user_id=dUFsZ3Y2bExuRFBXc1pnbXl4VzNJbGZzRnB4c1VGNG81cTI5b3R2Vw==
