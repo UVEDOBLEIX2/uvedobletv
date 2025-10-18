@@ -286,8 +286,6 @@ acestream://d830c1dc3b74e74f79cbb823804cf2037857e78a
 #EXTINF:-1 tvg-logo="https://i.ibb.co/r2Yd7xD/euro1.png" tvg-id="Eurosport 1 HD" group-title="EUROSPORT", EUROSPORT 1 HD --> NEW LOOP
 acestream://547ab7146a86d6119c9332c011669544720124e3
 #EXTINF:-1 tvg-logo="https://i.ibb.co/M6h4Qyd/euro2.png" tvg-id="Eurosport 2" group-title="EUROSPORT", EUROSPORT 2 FHD --> NEW ERA
-acestream://dc4ccb9e72550bc72be9360aa7d77e337ad11ecc
-#EXTINF:-1 tvg-logo="https://i.ibb.co/M6h4Qyd/euro2.png" tvg-id="Eurosport 2" group-title="EUROSPORT", EUROSPORT 2 FHD --> NEW ERA
 acestream://2773b39926d15dd3d9495d94c4050604792d7031
 #EXTINF:-1 tvg-logo="https://i.ibb.co/M6h4Qyd/euro2.png" tvg-id="Eurosport 2" group-title="EUROSPORT", EUROSPORT 2 FHD --> NEW ERA VI
 acestream://37d6f1aabcde81ee6e4873b4db6b7bb8964af8bf
@@ -611,8 +609,6 @@ acestream://9be118a64eb603b5eb62be6cf27631d3891b5174
 acestream://9ed46050217ee6ed8236a64b72d7992f7b3b37f2
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Vp04N3pT/golf.png" tvg-id="M+ Golf HD" group-title="MOVISTAR DEPORTES", MOVISTAR GOLF HD --> SPORT TV
 acestream://872608e734992db636eb79426802cd08f4029afb
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" tvg-id="M+ Vamos HD" group-title="MOVISTAR DEPORTES", MOVISTAR VAMOS FHD --> NEW ERA
-acestream://3b2a8b41e7097c16b0468b42d7de0320886fa933
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" tvg-id="M+ Vamos HD" group-title="MOVISTAR DEPORTES", MOVISTAR VAMOS FHD --> NEW ERA
 acestream://2940120bf034db79a7f5849846ccea0255172eae
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" tvg-id="M+ Vamos HD" group-title="MOVISTAR DEPORTES", MOVISTAR VAMOS FHD --> NEW ERA
