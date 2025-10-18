@@ -13,6 +13,8 @@ acestream://8b9e46eb3a9b4ef23b7d3d86c73a0851580f8caa
 acestream://277a6fb47189db801c5b7b05ad89c690571f3e9c
 #EXTINF:-1 tvg-logo="https://github.com/davidmuma/picons_dobleM/blob/master/icon/DARK.png?raw=true" tvg-id="DARK" group-title="MOVISTAR", DARK HD --> NEW ERA III
 acestream://25465ea2deba65c623b7659136abf6fcc9f5dc20
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Decasa.png" tvg-id="Decasa" group-title="MOVISTAR", DECASA FHD --> NEW ERA
+acestream://155d742120310a0ca80b0c8833d94979aa7f0b08
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Discovery.png" tvg-id="Discovery" group-title="MOVISTAR", DISCOVERY CHANNEL HD --> NEW ERA
 acestream://670519ffe8db1e20d0c753d4f756c009e71173d8
 #EXTINF:-1 tvg-logo="https://github.com/davidmuma/picons_dobleM/blob/master/icon/M+%20Acci%C3%B3n%20HD.png?raw=true" tvg-id="M+ Acción HD" group-title="MOVISTAR", MOVISTAR ACCION FHD --> NEW ERA
