@@ -40,6 +40,13 @@
          "url": "https://raw.githubusercontent.com/chukyvaliente/ChukHoodCine/refs/heads/main/ChukyHoodCines",
          "info":"",
          "import": false
+        },
+        {
+         "name": "RAMSES PELIS",
+         "image": "https://i.imgur.com/u9ZSu9k.gif",
+         "url": "https://elcano-kappa.vercel.app/PelisAcestream.txt",
+         "info":"",
+         "import": false
         }
         ]
 }
