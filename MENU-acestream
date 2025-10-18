@@ -33,6 +33,13 @@
             "url": "https://raw.githubusercontent.com/Icastresana/lista1/refs/heads/main/eventos.m3u",
             "info": "",
             "import": false
+        },
+        {
+            "name": "DEPORTES ACESTREAM [IPFS]",
+            "image": "https://i.imgur.com/amneG2p.png",
+            "url": "https://ipfs.io/ipns/k2k4r8oqlcjxsritt5mczkcn4mmvcmymbqw7113fz2flkrerfwfps004/data/listas/lista_fuera_iptv.m3u",
+            "info": "",
+            "import": false
         }
     ]
 }
