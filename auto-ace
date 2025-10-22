@@ -239,8 +239,6 @@ acestream://eb884f77ce8815cf1028c4d85e8b092c27ea1693
 acestream://7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-logo="https://github.com/davidmuma/picons_dobleM/blob/master/icon/FOX%20SPORTS.png?raw=true" tvg-id="" group-title="DAZN", FOX SPORT MX --> NEW ERA
 acestream://a0464d3642e054f6122e7c309017d1e8d23f4da9
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1 HD" group-title="FORMULA 1", DAZN F1 --> NEW ERA
-acestream://1a63d886860e2b770590dcd64a4dd472eabb841d
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1 HD" group-title="FORMULA 1", DAZN F1 4K --> NEW ERA
 acestream://c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1 HD" group-title="FORMULA 1", DAZN F1 FHD --> NEW ERA
@@ -377,6 +375,8 @@ acestream://79f10c6c6168e42bfc606f3f7b9e5f3ca79dedab
 acestream://4b4907de51ec11087d4bed5876f2a0c68264f442
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN.png" tvg-id="" group-title="FUTBOL INT", ESPN ARGENTINA --> NEW ERA
 acestream://4bf4431b4815f07c1b3749f5a10f905ba566cd47
+#EXTINF:-1 tvg-logo="https://tvgidsassets.nl/v354/img/channels/120x120/468.png" tvg-id="" group-title="FUTBOL INT", ESPN ARGENTINA 2 HD --> NEW ERA
+acestream://ab7f9cc29ad09ee9575fed758ab317c818fdc491
 #EXTINF:-1 tvg-logo="https://tvgidsassets.nl/v354/img/channels/120x120/468.png" tvg-id="" group-title="FUTBOL INT", ESPN ARGENTINA 3 HD --> NEW ERA
 acestream://d872a44653bf2ad232d5f8476597754b69e3d56c
 #EXTINF:-1 tvg-logo="https://tvgidsassets.nl/v354/img/channels/120x120/470.png" tvg-id="" group-title="FUTBOL INT", ESPN ARGENTINA 4 HD --> NEW ERA
@@ -449,6 +449,12 @@ acestream://cb18d080d81f7fccf26b7723ce6a5d86d31220db
 acestream://d4f56cda0a15f47e7820daaac8e37b4d67d9c918
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bc/3._Liga_logo_%282019%29.svg/200px-3._Liga_logo_%282019%29.svg.png" tvg-id="DE | Sky Sport Bundesliga 3" group-title="BUNDESLIGA", BUNDESLIGA 3 FHD --> NEW ERA
 acestream://692d6a47ba99fbfc67fa947e468e859c7f2b9564
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", ESSPN MX SD --> NEW ERA
+acestream://648b6c7d1b1800b6d224f22e26694f4d59ad217d
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", ESSPN MX 3 HD --> NEW ERA
+acestream://fbc9b6650b886ba0b25c0b9468b625aa6d4a2042
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", ESSPN MX 4 SD --> NEW ERA
+acestream://93953cc10405f53e1d4ea2c30f1aad25e28a59f0
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Magenta Sport 1 HD (DE) --> SPORT TV
 acestream://501141c649a2b78c4965cbf3257224181cc55072
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Magenta Sport 2 HD (DE) --> SPORT TV
@@ -471,6 +477,10 @@ acestream://86495fe134ff065d5217497babe6be33f81d37d1
 acestream://6058a4c0f2569bd81c687aa7dfb48b8a9569fb29
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Magenta Sport 11 HD (DE) --> SPORT TV
 acestream://c21316ad4b7f44eaf6fcfb2c245c46de8b746cc6
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", NFL RED ZONE SD --> NEW ERA
+acestream://21be4fe2052fc66456b4f233428bb40a681bf863
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", NFL USA SD --> NEW ERA
+acestream://5a71a114fdf460fc90f88b959f83625b964a5d62
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Orange TV --> NEW LOOP
 acestream://abdbfccdfd73bb5b1dcad598d539058040fb24fa
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", RTL+ SPORT EVENT 1 (DE) --> SPORT TV
