@@ -19,6 +19,13 @@
          "import": false
         },
         {
+         "name": "LISTA RAMSES",
+         "image": "",
+         "url": "https://elis-gray.vercel.app/PelisAcestream.txt",
+         "info":"",
+         "import": false
+        },
+        {
          "name": "LISTA CHUKI",
          "image": "",
          "url": "https://raw.githubusercontent.com/chukyvaliente/ChukHoodCine/refs/heads/main/ChukyHoodCines",
@@ -32,20 +39,7 @@
          "info":"",
          "import": false
         },
-        {
-         "name": "Pruebas NFL 1",
-         "image": "",
-         "url": "https://raw.githubusercontent.com/UVEDOBLEIX2/uvedobletv/refs/heads/main/pruebaswiwi",
-         "info":"",
-         "import": false
-        },
-        {
-         "name": "Pruebas NFL 2",
-         "image": "",
-         "url": "https://tvpass.org/playlist/m3u",
-         "info":"",
-         "import": false
-        }
+
 
 
 
