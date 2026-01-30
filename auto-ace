@@ -33,8 +33,6 @@ acestream://599a2fda91aa55703e2c5a51562d9dbf5d3d31d9
 acestream://b40212c43e96e97542ea00f2129212a054853a57
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bc/3._Liga_logo_%282019%29.svg/200px-3._Liga_logo_%282019%29.svg.png" tvg-id="DE | Sky Sport Bundesliga 3" group-title="BUNDESLIGA", BUNDESLIGA 3 FHD --> NEW ERA
 acestream://692d6a47ba99fbfc67fa947e468e859c7f2b9564
-#EXTINF:-1 tvg-logo="https://i.ibb.co/m54QH9Gt/copa.png" tvg-id="M+ Copa del Rey" group-title="COPA DEL REY", COPA DEL REY --> NEW ERA
-acestream://63ad519ec9602ea12f7867cf15914b2537bbf04a
 #EXTINF:-1 tvg-logo="https://i.ibb.co/m54QH9Gt/copa.png" tvg-id="M+ Copa del Rey" group-title="COPA DEL REY", COPA DEL REY FHD --> NEW ERA
 acestream://28205d7c9776b96a1f479c9082e80bd1e18f5afd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="DAZN 1 HD" group-title="DAZN", DAZN 1 FHD --> NEW ERA
