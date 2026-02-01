@@ -553,6 +553,8 @@ acestream://7af3d01607359fd1777de3d34d8d505ee5591b82
 acestream://a5f2161b0cabe910dc866b5abc6efe5d8f41fd7f
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", DAZN BALONCESTO 1 FHD --> NEW ERA
 acestream://217e5f172d4c704c5eec739fed672a53521e8f98
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", DAZN BALONCESTO 2 FHD --> NEW ERA
+acestream://965b249321adbf3a1459f94c17f624022889fb8d
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", ESSPN 2 USA HD --> NEW ERA
 acestream://74e78be7e8aa0cfb4ff4cada0eff0fc74bfdbd68
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", ESSPN MX SD --> NEW ERA
