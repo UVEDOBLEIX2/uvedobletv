@@ -463,6 +463,10 @@ acestream://c21316ad4b7f44eaf6fcfb2c245c46de8b746cc6
 acestream://aa6faf8d1fca70d1e79ca0a6647ac15fcecea2f6
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", MIXED+ (solo eventos) --> NEW ERA III
 acestream://f183cf6c5336e109f0572ffe0b471f0f79d19cf7
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", NBA EVENTOS 1  --> NEW ERA
+acestream://3cd63bd01b6443c715467730a489f1ece7c1a306
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", NBA EVENTOS 2  --> NEW ERA
+acestream://540101712b991557b00973af27027812f99b6458
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", NFL USA SD --> NEW ERA
 acestream://5a71a114fdf460fc90f88b959f83625b964a5d62
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Pluto TV Auto Motor Sport (720p) --> NEW LOOP
