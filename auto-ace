@@ -302,15 +302,15 @@ acestream://d4ff041287a43e3114d411d671c4b4e92e21f33y
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga HD" group-title="LA LIGA", M+ LALIGA FHD --> NEW ERA VI
 acestream://b3bdd6ef7f795c4f321a3ce5cf4907338f462929
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga HD" group-title="LA LIGA", M+ LALIGA --> ELCANO
-acestream://3ace1463a7cad979c3a4002b245487e9982e9f1a
-#EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga HD" group-title="LA LIGA", M+ LALIGA --> ELCANO
 acestream://f863873de9f7b2996dde19a0657dd89835af3007
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga HD" group-title="LA LIGA", M+ LALIGA --> ELCANO
+acestream://3ace1463a7cad979c3a4002b245487e9982e9f1a
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga HD" group-title="LA LIGA", M+ LALIGA --> ELCANO
 acestream://14b6cd8769cd485f2cffdca64be9698d9bfeac58
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga HD" group-title="LA LIGA", M+ LALIGA --> ELCANO
-acestream://4b528d10eaad747ddf52251206177573ee3e9f74
-#EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga HD" group-title="LA LIGA", M+ LALIGA --> ELCANO
 acestream://00c9bc9c5d7d87680a5a6bed349edfa775a89947
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga HD" group-title="LA LIGA", M+ LALIGA --> ELCANO
+acestream://4b528d10eaad747ddf52251206177573ee3e9f74
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga HD" group-title="LA LIGA", M+ LALIGA FHD --> NEW LOOP
 acestream://0bd70b57127c5e466f8f997617ba0389b7446e4a
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga HD" group-title="LA LIGA", M+ LALIGA --> SPORT TV
@@ -629,6 +629,10 @@ acestream://18b03739d660f0066364343e226e437bf2555d56
 acestream://ef341794651e00b7fcc5b5da8570ea37418c5406
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Film+ HD --> NEW LOOP
 acestream://ec7aeef5723f654ee705a192bdcf4eff2fc7c311
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Gol Peru * --> ELCANO
+acestream://e5cb8a4284eadd0f8c5905cc7b5a899da7101312
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Liga 1 Max * --> ELCANO
+acestream://ddca8f4457d66761c1695285959d096e9727accc
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Magenta Sport 1 HD (DE) --> SPORT TV
 acestream://501141c649a2b78c4965cbf3257224181cc55072
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Magenta Sport 2 HD (DE) --> SPORT TV
