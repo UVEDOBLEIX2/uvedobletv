@@ -77,6 +77,8 @@ acestream://9fb99c40a2c45d5c5342b30626eb56140f980612
 acestream://b2d560741c006fc5e4a42412bb52dbd25a6a4a3a
 #EXTINF:-1 tvg-logo="https://assets.laliga.com/assets/2023/07/13/medium/60e1502d7d6098162828bb002e98bdb4.png" tvg-id="GOL" group-title="DEPORTES", GOL PLAY FHD --> NEW ERA
 acestream://73094658f0a3ed523c0e188de67a7a690c0d4f93
+#EXTINF:-1 tvg-logo="https://github.com/davidmuma/picons_dobleM/blob/master/icon/Esport%203.png?raw=true" tvg-id="Real Madrid TV" group-title="DEPORTES", REAL MADRID TV HD --> NEW ERA
+acestream://7a955964c91c66311eef9137a96332352dbb891e
 #EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/Sky_Sports_Arena_GB_logo.png?1734015005" tvg-id="UK | Sky Sport Arena" group-title="DEPORTES", SKY SPORTS ARENA --> NEW LOOP
 acestream://37796ca47026bc190c7dc26827c0dfb6b61d137b
 #EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/Sky_Sports_Arena_GB_logo.png?1734015005" tvg-id="UK | Sky Sport Arena" group-title="DEPORTES", SKY SPORTS ARENA --> SPORT TV
@@ -302,15 +304,15 @@ acestream://d4ff041287a43e3114d411d671c4b4e92e21f33y
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga HD" group-title="LA LIGA", M+ LALIGA FHD --> NEW ERA VI
 acestream://b3bdd6ef7f795c4f321a3ce5cf4907338f462929
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga HD" group-title="LA LIGA", M+ LALIGA --> ELCANO
-acestream://f863873de9f7b2996dde19a0657dd89835af3007
-#EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga HD" group-title="LA LIGA", M+ LALIGA --> ELCANO
 acestream://3ace1463a7cad979c3a4002b245487e9982e9f1a
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga HD" group-title="LA LIGA", M+ LALIGA --> ELCANO
+acestream://f863873de9f7b2996dde19a0657dd89835af3007
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga HD" group-title="LA LIGA", M+ LALIGA --> ELCANO
 acestream://14b6cd8769cd485f2cffdca64be9698d9bfeac58
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga HD" group-title="LA LIGA", M+ LALIGA --> ELCANO
-acestream://00c9bc9c5d7d87680a5a6bed349edfa775a89947
-#EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga HD" group-title="LA LIGA", M+ LALIGA --> ELCANO
 acestream://4b528d10eaad747ddf52251206177573ee3e9f74
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga HD" group-title="LA LIGA", M+ LALIGA --> ELCANO
+acestream://00c9bc9c5d7d87680a5a6bed349edfa775a89947
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga HD" group-title="LA LIGA", M+ LALIGA FHD --> NEW LOOP
 acestream://0bd70b57127c5e466f8f997617ba0389b7446e4a
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga HD" group-title="LA LIGA", M+ LALIGA --> SPORT TV
