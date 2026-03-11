@@ -127,6 +127,8 @@ acestream://82b4f249788f93b8f9ce968803662d7cd4f1b8cc
 acestream://d5cf2dfa4fb4165ce58bf9db815088c28fec7711
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1 HD" group-title="FORMULA 1", DAZN F1 FHD --> NEW ERA II
 acestream://b5f3cc5cd66c98bae9d65df43ecee6c02d18aebd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1 HD" group-title="FORMULA 1", DAZN F1 FHD --> NEW ERA VI
+acestream://724f9b252b11064e3f16220717fd52bd3a510b5f
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1 HD" group-title="FORMULA 1", DAZN F1 HD --> NEW LOOP
 acestream://6d325cda6ed591647ef5e91edd043147bce8be30
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1 HD" group-title="FORMULA 1", DAZN F1 --> SPORT TV
