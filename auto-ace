@@ -127,6 +127,8 @@ acestream://e541a954465df29ccce4d829529d983ffb2803d4
 acestream://37f5d22ee578b0cdbc715b8971175bdc91eebb5d
 #EXTINF:-1 tvg-logo="https://i.ibb.co/M6h4Qyd/euro2.png" tvg-id="Eurosport 2" group-title="EUROSPORT", EUROSPORT 2 FHD --> NEW ERA
 acestream://dc4ccb9e72550bc72be9360aa7d77e337ad11ecc
+#EXTINF:-1 tvg-logo="https://i.ibb.co/M6h4Qyd/euro2.png" tvg-id="Eurosport 2" group-title="EUROSPORT", EUROSPORT 2 --> ELCANO
+acestream://f5908690485ae2facecf3074446ba4315f07a193
 #EXTINF:-1 tvg-logo="https://i.ibb.co/M6h4Qyd/euro2.png" tvg-id="Eurosport 2" group-title="EUROSPORT", EUROSPORT 2 HD --> NEW LOOP
 acestream://088aea0c1509c5324f5ec6b9b6ff17ef2c231420
 #EXTINF:-1 tvg-logo="https://i.ibb.co/M6h4Qyd/euro2.png" tvg-id="Eurosport 2" group-title="EUROSPORT", EUROSPORT 2 HD --> SPORT TV
