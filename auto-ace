@@ -120,9 +120,9 @@ acestream://c21d60fa884b24f3cedcb1110b84ac2bcb0c2d19
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1 HD" group-title="FORMULA 1", DAZN F1 FHD --> NEW ERA VI
 acestream://724f9b252b11064e3f16220717fd52bd3a510b5f
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1 HD" group-title="FORMULA 1", DAZN F1 --> ELCANO
-acestream://20086a76248efe8d5230c15d41c69bae8fa6381c
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1 HD" group-title="FORMULA 1", DAZN F1 --> ELCANO
 acestream://f16d68fa5ff64f3894a45062ca28e4e66f142c6a
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1 HD" group-title="FORMULA 1", DAZN F1 --> ELCANO
+acestream://20086a76248efe8d5230c15d41c69bae8fa6381c
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1 HD" group-title="FORMULA 1", DAZN F1 --> ELCANO
 acestream://f8b0eae8fda973cf426311541d1668aa592f0a8c
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1 HD" group-title="FORMULA 1", DAZN F1 --> ELCANO
@@ -272,9 +272,9 @@ acestream://4b18a3b32df5960ed950fa907f8d509b1ad2a188
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%202.png" tvg-id="M+ Liga de Campeones 2 HD" group-title="LIGA DE CAMPEONES", LIGA DE CAMPEONES 2 FHD --> NEW ERA II
 acestream://ea03cc51980996ba6f2da49e30eee1de8a66ae54
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%202.png" tvg-id="M+ Liga de Campeones 2 HD" group-title="LIGA DE CAMPEONES", LIGA DE CAMPEONES 2 --> ELCANO
-acestream://bb26037a253866d341778181eff5c8637240d615
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%202.png" tvg-id="M+ Liga de Campeones 2 HD" group-title="LIGA DE CAMPEONES", LIGA DE CAMPEONES 2 --> ELCANO
 acestream://74ab4e4ec7e2da001f473ca40893b7307b8029c5
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%202.png" tvg-id="M+ Liga de Campeones 2 HD" group-title="LIGA DE CAMPEONES", LIGA DE CAMPEONES 2 --> ELCANO
+acestream://bb26037a253866d341778181eff5c8637240d615
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%202.png" tvg-id="M+ Liga de Campeones 2 HD" group-title="LIGA DE CAMPEONES", LIGA DE CAMPEONES 2 --> SPORT TV
 acestream://338b5de78b0b40a6f9ca3cc0cf9be93341b9ceea
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%203.png" tvg-id="M+ Liga de Campeones 3 HD" group-title="LIGA DE CAMPEONES", LIGA DE CAMPEONES 3 FHD --> NEW ERA
@@ -641,8 +641,6 @@ acestream://42fe2ce3ef6b92653a74d85b6e98c2ba0abee707
 acestream://f6d68cfa8694f814983f2a5757f4e0c4964b880c
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Sky Sports LaLiga HD --> NEW ERA
 acestream://2fab80a8445e31cb98169c0907600e1545ea8557
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Topuria vs Gaethje ** --> ELCANO
-acestream://2e102f334374eab5ccf589b78e18f8aa74d0348e
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", VIASAT SPORT HD (RU) --> SPORT TV
 acestream://dec96c86080c26ddf667ea90adfb513a40007a0b
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Бокс ТВ (RU) --> SPORT TV
